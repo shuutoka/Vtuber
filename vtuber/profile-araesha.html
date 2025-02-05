@@ -39,6 +39,8 @@
             text-decoration: none;
             font-weight: bold;
             transition: background 0.3s;
+            position: relative;
+            overflow: hidden; /* Ajouté pour cacher les dépassements de l'animation */
         }
 
         .btn-twitch {
@@ -57,6 +59,29 @@
 
         .btn-donation:hover {
             background-color: #d98b00;
+        }
+
+        .btn-donation:before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.4), transparent);
+            animation: ShineAnim 3s ease infinite;
+        }
+
+        @keyframes ShineAnim {
+            0% {
+                left: -100%;
+            }
+            50% {
+                left: 100%;
+            }
+            100% {
+                left: 100%;
+            }
         }
 
         .btn-discord {
