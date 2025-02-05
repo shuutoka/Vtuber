@@ -17,11 +17,14 @@
             margin-bottom: 20px;
         }
 
+        /* Utilisation de Grid pour gérer l'affichage des cartes */
         .streamer-container {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
+            display: grid;
+            grid-template-columns: repeat(3, 1fr); /* 3 cartes par ligne */
             gap: 20px;
+            justify-items: center;
+            max-width: 1000px;
+            margin: auto;
         }
 
         .streamer-card {
@@ -93,12 +96,20 @@
             background-color: #52328c;
         }
 
-        @media (max-width: 600px) {
+        /* Responsive : 2 cartes par ligne sur mobile */
+        @media (max-width: 768px) {
             .streamer-container {
-                flex-direction: column;
-                align-items: center;
+                grid-template-columns: repeat(2, 1fr);
             }
         }
+
+        /* Responsive : 1 carte par ligne sur mobile très petit */
+        @media (max-width: 480px) {
+            .streamer-container {
+                grid-template-columns: 1fr;
+            }
+        }
+
     </style>
 </head>
 <body>
@@ -124,15 +135,14 @@
             <a href="../vtuber/profile-meyuuart.html" class="btn btn-profile">Voir le profil</a>
             <a href="https://www.twitch.tv/meyuuart" target="_blank" class="btn btn-twitch">Voir sur Twitch</a>
         </div>
-    </div>
 
-      <!-- VTuber 3 -->
+        <!-- VTuber 3 -->
         <div class="streamer-card" data-username="yamishin">
             <img class="stream-thumbnail" src="" alt="Miniature du stream">
             <h2>Yami Shin</h2>
             <img class="profile-img" src="https://static-cdn.jtvnw.net/jtv_user_pictures/a22de19e-b7f3-4f49-95b3-c8cf50c1b13f-profile_image-70x70.png" alt="Profil">
             <p class="status">🕒 Vérification...</p>
-            <a href="http://lotaku.fr/" class="btn btn-profile">Voir le profil</a>
+            <a href="http://vtuber-lotaku.fr/" class="btn btn-profile">Voir le profil</a>
             <a href="https://www.twitch.tv/yamishin" target="_blank" class="btn btn-twitch">Voir sur Twitch</a>
         </div>
     </div>
