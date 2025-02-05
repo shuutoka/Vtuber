@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profil - Nom du VTuber</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #0a1128;
+            color: #ffffff;
+            text-align: center;
+            padding: 20px;
+        }
+
+        .profile-container {
+            max-width: 400px;
+            margin: auto;
+        }
+
+        .profile-img {
+            border-radius: 50%;
+            width: 100px;
+            height: 100px;
+            margin-bottom: 15px;
+        }
+
+        .profile-name {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .btn {
+            display: block;
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: bold;
+            transition: background 0.3s;
+            position: relative;
+            overflow: hidden; /* Ajouté pour cacher les dépassements de l'animation */
+        }
+
+        .btn-twitch {
+            background-color: #6441a5;
+            color: #fff;
+        }
+
+        .btn-twitch:hover {
+            background-color: #52328c;
+        }
+
+        .btn-donation {
+            background-color: #f0a500;
+            color: #fff;
+        }
+
+        .btn-donation:hover {
+            background-color: #d98b00;
+        }
+
+        .btn-donation:before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.4), transparent);
+            animation: ShineAnim 3s ease infinite;
+        }
+
+        @keyframes ShineAnim {
+            0% {
+                left: -100%;
+            }
+            50% {
+                left: 100%;
+            }
+            100% {
+                left: 100%;
+            }
+        }
+
+        .btn-discord {
+            background-color: #7289da;
+            color: #fff;
+        }
+
+        .btn-discord:hover {
+            background-color: #5b6eae;
+        }
+
+        .btn-instagram {
+            background-color:  #ee2a7b;
+            color: #fff;
+        }
+
+        .btn-instagram:hover {
+            background-color: #9a1b50;
+        }
+
+        .btn-twitter{
+            background-color: black;
+            color: #fff;
+        }
+
+        .btn-twitter:hover{
+            background-color: #191a1d;
+        }
+
+        .btn-youtube {
+          background-color: red;
+          color: #fff;
+        }
+
+        .btn-youtube:hover {
+          background-color: #540000;
+        }
+
+        .btn-boutique {
+          background-color: #f9c9bc;
+          color: #fff;
+        }
+
+        .btn-boutique:hover {
+          background-color: #c9a197;
+        }
+
+        .btn-webtoon {
+          background-color: #25c946;
+          color: #fff;
+        }
+
+        .btn-webtoon:hover {
+          background-color: #1b8c31
+        }
+
+    </style>
+</head>
+<body>
+
+    <div class="profile-container">
+        <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/b8d1a4ad-868f-40b3-bc06-6444b132527e-profile_image-70x70.png" alt="VTuber" class="profile-img">
+        <h1 class="profile-name">Meyuu Art</h1>
+
+        <a href="https://www.twitch.tv/meyuuart" target="_blank" class="btn btn-twitch">🔴 Voir sur Twitch</a>
+        <a href="https://streamelements.com/meyuuart/tip" target="_blank" class="btn btn-donation">💰 Faire un don</a>
+        <a href="https://www.patreon.com/Meyuu" target="_blank" class="btn btn-boutique">🛒 Visiter le Patreon</a>
+        <a href="https://www.instagram.com/meyuuart" target="_blank" class="btn btn-instagram">📷 Instagam</a>
+        <a href="https://www.youtube.com/@meyuuart" target="_blank" class="btn btn-youtube">🪶 YouTube</a>
+        <a href="https://twitter.com/Meyuuart" target="_blank" class="btn btn-twitter">𝕏 Twitter</a>
+        <a href="https://www.webtoons.com/fr/canvas/la-mal%C3%A9diction-de-wyrm/list?title_no=788418" target="_blank" class="btn btn-webtoon">Weebtoon : La Malédiction de Wyrm</a>
+        <a href="https://www.webtoons.com/fr/canvas/symbiose-/list?title_no=665333" target="_blank" class="btn btn-webtoon">Webtoon: Symbiose !</a>
+    </div>
+
+</body>
+</html>
