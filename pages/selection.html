@@ -17,10 +17,56 @@
             margin-bottom: 20px;
         }
 
-        /* Utilisation de Grid pour gérer l'affichage des cartes */
+        .btn {
+            display: block;
+            padding: 8px;
+            margin: 5px 0;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: bold;
+            transition: background 0.3s;
+        }
+
+        .btn-profile {
+            background-color: #f0a500;
+            color: #fff;
+        }
+
+        .btn-profile:hover {
+            background-color: #d98b00;
+        }
+
+        .btn-twitch {
+            background-color: #6441a5;
+            color: #fff;
+        }
+
+        .btn-twitch:hover {
+            background-color: #52328c;
+        }
+
+        .filter-buttons {
+            margin-bottom: 20px;
+        }
+
+        .filter-btn {
+            padding: 10px 20px;
+            margin: 5px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            background-color: #f0a500;
+            color: white;
+        }
+
+        .filter-btn:hover {
+            background-color: #d98b00;
+        }
+
         .streamer-container {
             display: grid;
-            grid-template-columns: repeat(3, 1fr); /* 3 cartes par ligne */
+            grid-template-columns: repeat(3, 1fr);
             gap: 20px;
             justify-items: center;
             max-width: 1000px;
@@ -68,36 +114,8 @@
             color: #ccc;
         }
 
-        .btn {
-            display: block;
-            padding: 8px;
-            margin: 5px 0;
-            border-radius: 5px;
-            text-decoration: none;
-            font-weight: bold;
-            transition: background 0.3s;
-        }
-
-        .btn-profile {
-            background-color: #f0a500;
-            color: #fff;
-        }
-
-        .btn-profile:hover {
-            background-color: #d98b00;
-        }
-
-        .btn-twitch {
-            background-color: #6441a5;
-            color: #fff;
-        }
-
-        .btn-twitch:hover {
-            background-color: #52328c;
-        }
-
-        /* Responsive : 2 cartes par ligne sur mobile */
-        @media (max-width: 768px) {
+         /* Responsive : 2 cartes par ligne sur mobile */
+         @media (max-width: 768px) {
             .streamer-container {
                 grid-template-columns: repeat(2, 1fr);
             }
@@ -109,12 +127,17 @@
                 grid-template-columns: 1fr;
             }
         }
-
     </style>
 </head>
 <body>
-
     <h1>🌸 Notre sélection VTuber 🗿</h1>
+
+    <div class="filter-buttons">
+        <button class="filter-btn" onclick="filterStreamers('all')">Tous</button>
+        <button class="filter-btn" onclick="filterStreamers('live')">En live</button>
+        <button class="filter-btn" onclick="filterStreamers('offline')">Hors ligne</button>
+    </div>
+
     <div class="streamer-container">
         <!-- VTuber 1 -->
         <div class="streamer-card" data-username="araesha_">
@@ -155,6 +178,16 @@
             <a href="http://vtuber.lotaku.fr/" class="btn btn-profile">Voir le profil</a>
             <a href="https://www.twitch.tv/gulliana_vt" target="_blank" class="btn btn-twitch">Voir sur Twitch</a>
         </div>
+
+        <!-- VTuber 5 -->
+        <div class="streamer-card" data-username="katchanvt">
+            <img class="stream-thumbnail" src="" alt="Miniature du stream">
+            <h2>KatChan</h2>
+            <img class="profile-img" src="https://static-cdn.jtvnw.net/jtv_user_pictures/fe803843-ee97-409f-b693-aaa2ec3e273e-profile_image-70x70.png" alt="Profil">
+            <p class="status">🕒 Vérification...</p>
+            <a href="http://vtuber.lotaku.fr/" class="btn btn-profile">Voir le profil</a>
+            <a href="https://www.twitch.tv/katchanvt" target="_blank" class="btn btn-twitch">Voir sur Twitch</a>
+        </div>
     </div>
 
     <script>
@@ -165,7 +198,6 @@
             streamerCards.forEach(card => {
                 const username = card.getAttribute("data-username");
                 const thumbnailUrl = `https://static-cdn.jtvnw.net/previews-ttv/live_user_${username}-440x248.jpg`;
-
                 const imgElement = card.querySelector(".stream-thumbnail");
                 const statusElement = card.querySelector(".status");
 
@@ -175,10 +207,12 @@
                             imgElement.src = defaultThumbnail;
                             statusElement.textContent = "⚫ Hors ligne";
                             statusElement.classList.add("offline");
+                            statusElement.classList.remove("live");
                         } else {
                             imgElement.src = thumbnailUrl;
                             statusElement.textContent = "🔴 En live";
                             statusElement.classList.add("live");
+                            statusElement.classList.remove("offline");
                         }
                     })
                     .catch(error => {
@@ -186,10 +220,30 @@
                         imgElement.src = defaultThumbnail;
                         statusElement.textContent = "⚫ Hors ligne";
                         statusElement.classList.add("offline");
+                        statusElement.classList.remove("live");
                     });
             });
+            setTimeout(() => {
+                    filterStreamers('live');
+                }, 20); // Petit délai pour s'assurer que les statuts sont bien mis à jour    
+            
         });
-    </script>
 
+        function filterStreamers(filter) {
+            const streamerCards = document.querySelectorAll(".streamer-card");
+            
+            streamerCards.forEach(card => {
+                const status = card.querySelector(".status").textContent;
+                
+                if (filter === "live" && status.includes("Hors ligne")) {
+                    card.style.display = "none";
+                } else if (filter === "offline" && status.includes("En live")) {
+                    card.style.display = "none";
+                } else {
+                    card.style.display = "block";
+                }
+            });
+        }
+    </script>
 </body>
 </html>
