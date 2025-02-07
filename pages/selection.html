@@ -250,14 +250,14 @@
             .finally(() => {
                 loadedCount++;
                 if (loadedCount === streamerCards.length) {
-                    setTimeout(hideLoadingScreen, 500); // Petit délai pour fluidité
+                    setTimeout(hideLoadingScreen, 800); // Petit délai pour fluidité
                 }
             });
     });
 
     setTimeout(() => {
         filterStreamers('live');
-    }, 500);
+    }, 800);
 });
 
     function filterStreamers(status) {
