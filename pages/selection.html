@@ -130,6 +130,12 @@
     </style>
 </head>
 <body>
+    <!-- Écran de chargement -->
+<div id="loading-screen">
+    <div class="spinner"></div>
+    <p>Chargement des streamers...</p>
+</div>
+
     <h1>🌸 Notre sélection VTuber 🗿</h1>
 
     <div class="filter-buttons">
@@ -201,58 +207,56 @@
     </div>
 
     <script>
-        document.addEventListener("DOMContentLoaded", function () {
-            const streamerCards = document.querySelectorAll(".streamer-card");
-            const defaultThumbnail = "https://static-cdn.jtvnw.net/ttv-static/404_preview-440x248.jpg";
+       document.addEventListener("DOMContentLoaded", function () {
+    const streamerCards = document.querySelectorAll(".streamer-card");
+    const defaultThumbnail = "https://static-cdn.jtvnw.net/ttv-static/404_preview-440x248.jpg";
+    const loadingScreen = document.getElementById("loading-screen");
+    let loadedCount = 0; // Compteur pour suivre les chargements
 
-            streamerCards.forEach(card => {
-                const username = card.getAttribute("data-username");
-                const thumbnailUrl = `https://static-cdn.jtvnw.net/previews-ttv/live_user_${username}-440x248.jpg`;
-                const imgElement = card.querySelector(".stream-thumbnail");
-                const statusElement = card.querySelector(".status");
+    function hideLoadingScreen() {
+        loadingScreen.style.display = "none";
+    }
 
-                fetch(thumbnailUrl, { method: "HEAD" })
-                    .then(response => {
-                        if (response.url === defaultThumbnail) {
-                            imgElement.src = defaultThumbnail;
-                            statusElement.textContent = "⚫ Hors ligne";
-                            statusElement.classList.add("offline");
-                            statusElement.classList.remove("live");
-                        } else {
-                            imgElement.src = thumbnailUrl;
-                            statusElement.textContent = "🔴 En live";
-                            statusElement.classList.add("live");
-                            statusElement.classList.remove("offline");
-                        }
-                    })
-                    .catch(error => {
-                        console.error("Erreur lors de la vérification du stream :", error);
-                        imgElement.src = defaultThumbnail;
-                        statusElement.textContent = "⚫ Hors ligne";
-                        statusElement.classList.add("offline");
-                        statusElement.classList.remove("live");
-                    });
-            });
-            setTimeout(() => {
-                    filterStreamers('live');
-                }, 500); // Petit délai pour s'assurer que les statuts sont bien mis à jour    
-            
-        });
+    streamerCards.forEach(card => {
+        const username = card.getAttribute("data-username");
+        const thumbnailUrl = `https://static-cdn.jtvnw.net/previews-ttv/live_user_${username}-440x248.jpg`;
+        const imgElement = card.querySelector(".stream-thumbnail");
+        const statusElement = card.querySelector(".status");
 
-        function filterStreamers(filter) {
-            const streamerCards = document.querySelectorAll(".streamer-card");
-            
-            streamerCards.forEach(card => {
-                const status = card.querySelector(".status").textContent;
-                
-                if (filter === "live" && status.includes("Hors ligne")) {
-                    card.style.display = "none";
-                } else if (filter === "offline" && status.includes("En live")) {
-                    card.style.display = "none";
+        fetch(thumbnailUrl, { method: "HEAD" })
+            .then(response => {
+                if (response.url === defaultThumbnail) {
+                    imgElement.src = defaultThumbnail;
+                    statusElement.textContent = "⚫ Hors ligne";
+                    statusElement.classList.add("offline");
+                    statusElement.classList.remove("live");
                 } else {
-                    card.style.display = "block";
+                    imgElement.src = thumbnailUrl;
+                    statusElement.textContent = "🔴 En live";
+                    statusElement.classList.add("live");
+                    statusElement.classList.remove("offline");
+                }
+            })
+            .catch(error => {
+                console.error("Erreur lors de la vérification du stream :", error);
+                imgElement.src = defaultThumbnail;
+                statusElement.textContent = "⚫ Hors ligne";
+                statusElement.classList.add("offline");
+                statusElement.classList.remove("live");
+            })
+            .finally(() => {
+                loadedCount++;
+                if (loadedCount === streamerCards.length) {
+                    setTimeout(hideLoadingScreen, 500); // Petit délai pour fluidité
                 }
             });
+    });
+
+    setTimeout(() => {
+        filterStreamers('live');
+    }, 500);
+});
+
         }
     </script>
 </body>
