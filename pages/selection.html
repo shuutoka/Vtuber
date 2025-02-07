@@ -260,6 +260,24 @@
     }, 500);
 });
 
+    function filterStreamers(status) {
+    const streamerCards = document.querySelectorAll(".streamer-card");
+
+    streamerCards.forEach(card => {
+        const statusElement = card.querySelector(".status");
+
+        if (status === "all") {
+            card.style.display = "block";
+        } else if (status === "live" && statusElement.classList.contains("live")) {
+            card.style.display = "block";
+        } else if (status === "offline" && statusElement.classList.contains("offline")) {
+            card.style.display = "block";
+        } else {
+            card.style.display = "none";
+        }
+    });
+}
+
         
     </script>
 </body>
