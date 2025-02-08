@@ -4,7 +4,7 @@
   "description": "Regarde tes VTubers préférés en un clic !",
   "start_url": "/pages/selection.html",
     "display": "standalone",
-    "scope": "/",
+    "scope": "../",
     "theme_color": "#f0a500",
     "background_color": "#0a1128",
     "icons": [
