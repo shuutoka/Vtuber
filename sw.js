@@ -5,6 +5,7 @@ self.addEventListener("install", event => {
             return cache.addAll([
                 "/",
                 "/pages/selection",
+                "/vtuber/",
                 "/manifest.json",
                 "/loading.css",
                 "/script.js",
