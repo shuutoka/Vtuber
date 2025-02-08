@@ -2,7 +2,7 @@
   "name": "VTuber Streams",
   "short_name": "VTuber",
   "description": "Regarde tes VTubers préférés en un clic !",
-  "start_url": "/pages/selection.html",
+  "start_url": "https://vtuber.lotaku.fr/pages/selection.html",
     "display": "standalone",
     "scope": "/",
     "theme_color": "#f0a500",
