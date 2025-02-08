@@ -140,5 +140,14 @@ if ('serviceWorker' in navigator) {
         <a href="https://twitter.com/Araesha_" target="_blank" class="btn btn-twitter">𝕏 Twitter</a>
     </div>
 
+    <script>
+        if (window.matchMedia('(display-mode: standalone)').matches) {
+    console.log("L'application fonctionne en mode PWA !");
+} else {
+    console.log("L'application s'ouvre dans un navigateur !");
+}
+
+    </script>
+
 </body>
 </html>
