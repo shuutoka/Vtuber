@@ -3,6 +3,7 @@
   "short_name": "VTuber",
   "description": "Regarde tes VTubers préférés en un clic !",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#0a1128",
   "theme_color": "#f0a500",
