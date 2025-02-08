@@ -4,9 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Profil - Nom du VTuber</title>
-    <script>
+    <!-- Lien vers le manifest -->
+<link rel="manifest" href="manifest.json">
+<!-- Couleur de la barre d'état sur mobile -->
+<meta name="theme-color" content="#f0a500">
+<!-- Enregistrement du Service Worker -->
+<script>
 if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('../sw.js')
+    navigator.serviceWorker.register('/sw.js')
     .then(() => console.log("Service Worker enregistré."))
     .catch(error => console.error("Service Worker erreur :", error));
 }
