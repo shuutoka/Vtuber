@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profil Shioka</title>
+    <link rel="icon" type="image/png" href="/icons/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="/icons/favicon.svg" />
+    <link rel="shortcut icon" href="/icons/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-title" content="VtuberLink" />
+    <link rel="manifest" href="/icons/site.webmanifest" />
+    <!-- Lien vers le manifest -->
+<link rel="manifest" href="manifest.json">
+<!-- Couleur de la barre d'état sur mobile -->
+<meta name="theme-color" content="#f0a500">
+<!-- Enregistrement du Service Worker -->
+<script>
+if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('../sw.js')
+    .then(() => console.log("Service Worker enregistré."))
+    .catch(error => console.error("Service Worker erreur :", error));
+}
+</script>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #0a1128;
+            color: #ffffff;
+            text-align: center;
+            padding: 20px;
+        }
+
+        .profile-container {
+            max-width: 400px;
+            margin: auto;
+        }
+
+        .profile-img {
+            border-radius: 50%;
+            width: 100px;
+            height: 100px;
+            margin-bottom: 15px;
+        }
+
+        .profile-name {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .btn {
+            display: block;
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: bold;
+            transition: background 0.3s;
+            position: relative;
+            overflow: hidden; /* Ajouté pour cacher les dépassements de l'animation */
+        }
+
+        .btn-twitch {
+            background-color: #6441a5;
+            color: #fff;
+        }
+
+        .btn-twitch:hover {
+            background-color: #52328c;
+        }
+
+        .btn-donation {
+            background-color: #f0a500;
+            color: #fff;
+        }
+
+        .btn-donation:hover {
+            background-color: #d98b00;
+        }
+
+        .btn-donation:before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.4), transparent);
+            animation: ShineAnim 3s ease infinite;
+        }
+
+        @keyframes ShineAnim {
+            0% {
+                left: -100%;
+            }
+            50% {
+                left: 100%;
+            }
+            100% {
+                left: 100%;
+            }
+        }
+
+        .btn-discord {
+            background-color: #7289da;
+            color: #fff;
+        }
+
+        .btn-discord:hover {
+            background-color: #5b6eae;
+        }
+
+        .btn-youtube {
+            background-color:  #e3053c;
+            color: #fff;
+        }
+
+        .btn-youtube:hover {
+            background-color: #9e1235;
+        }
+
+        .btn-twitter{
+            background-color: black;
+            color: #fff;
+        }
+
+        .btn-twitter:hover{
+            background-color: #191a1d;
+        }
+
+    </style>
+</head>
+<body>
+
+    <div class="profile-container">
+        <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/b8d1a4ad-868f-40b3-bc06-6444b132527e-profile_image-70x70.png" alt="VTuber" class="profile-img">
+        <h1 class="profile-name">Shioka</h1>
+
+        <a href="https://www.twitch.tv/shioka_" target="_blank" class="btn btn-twitch">🔴 Voir sur Twitch</a>
+        <a href="https://www.paypal.com/donate?hosted_button_id=66HJ2YF7FBYMY" target="_blank" class="btn btn-donation">💰 Faire un don</a>
+        <a href="https://discord.gg/N4XbWrJA6v" target="_blank" class="btn btn-discord">💬 Rejoindre le Discord</a>
+        <a href="https://www.youtube.com/@shioka_/videos" target="_blank" class="btn btn-youtube">⏯ YouTube</a>
+    </div>
+
+    <script>
+        if (window.matchMedia('(display-mode: standalone)').matches) {
+    console.log("L'application fonctionne en mode PWA !");
+} else {
+    console.log("L'application s'ouvre dans un navigateur !");
+}
+
+
+document.addEventListener('DOMContentLoaded', function () {
+    document.querySelectorAll('a').forEach(link => {
+        link.addEventListener('click', function (event) {
+            const url = new URL(this.href, window.location.origin);
+
+            // Vérifier si le lien est interne
+            if (url.origin === window.location.origin) {
+                event.preventDefault();
+                window.location.href = this.href; // Charge la page dans l'application
+            }
+        });
+    });
+});
+
+
+
+    </script>
+
+</body>
+</html>
