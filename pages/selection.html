@@ -5,12 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>VTuber Streams</title>
     <link rel="stylesheet" href="loading.css">
-    <link rel="icon" type="image/png" href="/icons/favicon-96x96.png" sizes="96x96" />
-    <link rel="icon" type="image/svg+xml" href="/icons/favicon.svg" />
-    <link rel="shortcut icon" href="/icons/favicon.ico" />
-    <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" href="../icons/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/svg+xml" href="../icons/favicon.svg">
+    <link rel="shortcut icon" href="../icons/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="../icons/apple-touch-icon.png">
+    <link rel="manifest" href="../manifest.json">
     <meta name="apple-mobile-web-app-title" content="VtuberLink" />
-    <link rel="manifest" href="/icons/site.webmanifest" />
+    
     <!-- Lien vers le manifest -->
 <link rel="manifest" href="manifest.json">
 <!-- Couleur de la barre d'état sur mobile -->
@@ -18,7 +19,7 @@
 <!-- Enregistrement du Service Worker -->
 <script>
 if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('/sw.js')
+    navigator.serviceWorker.register('../sw.js')
     .then(() => console.log("Service Worker enregistré."))
     .catch(error => console.error("Service Worker erreur :", error));
 }
@@ -243,7 +244,7 @@ if ('serviceWorker' in navigator) {
             <h2>Shioka</h2>
             <img class="profile-img" src="https://static-cdn.jtvnw.net/jtv_user_pictures/fb4fd9e1-6e46-40c4-b6fe-b4cb7487b744-profile_image-70x70.png" alt="Profil">
             <p class="status">🕒 Vérification...</p>
-            <a href="https://vtuber.lotaku.fr/vtuber/shioka.html" class="btn btn-profile">Voir le profil</a>
+            <a href="../vtuber/shioka.html" class="btn btn-profile">Voir le profil</a>
             <a href="https://www.twitch.tv/shioka_" target="_blank" class="btn btn-twitch">Voir sur Twitch</a>
         </div>
 
@@ -253,9 +254,30 @@ if ('serviceWorker' in navigator) {
             <h2>Aikamorii</h2>
             <img class="profile-img" src="https://static-cdn.jtvnw.net/jtv_user_pictures/3e4f2914-a080-4e0d-9803-72048540dabe-profile_image-70x70.png" alt="Profil">
             <p class="status">🕒 Vérification...</p>
-            <a href="https://vtuber.lotaku.fr/vtuber/aikamorii.html" class="btn btn-profile">Voir le profil</a>
+            <a href="../vtuber/aikamorii.html" class="btn btn-profile">Voir le profil</a>
             <a href="https://www.twitch.tv/aikamorii" target="_blank" class="btn btn-twitch">Voir sur Twitch</a>
         </div>
+
+        <!-- VTuber 10 -->
+        <div class="streamer-card" data-username="ryllaka">
+            <img class="stream-thumbnail" src="" alt="Miniature du stream">
+            <h2>Ryllaka</h2>
+            <img class="profile-img" src="https://static-cdn.jtvnw.net/jtv_user_pictures/9e0b5b69-cfe0-49fd-9109-5d6d57ccb7c2-profile_image-70x70.png" alt="Profil">
+            <p class="status">🕒 Vérification...</p>
+            <a href="../vtuber/ryllaka.html" class="btn btn-profile">Voir le profil</a>
+            <a href="https://www.twitch.tv/ryllaka" target="_blank" class="btn btn-twitch">Voir sur Twitch</a>
+        </div>
+
+        <!-- VTuber 11 -->
+        <div class="streamer-card" data-username="temperyia">
+            <img class="stream-thumbnail" src="" alt="Miniature du stream">
+            <h2>Temperyia</h2>
+            <img class="profile-img" src="https://static-cdn.jtvnw.net/jtv_user_pictures/559b8602-30ee-4f7a-a82c-37d9f1ce7da3-profile_image-70x70.png" alt="Profil">
+            <p class="status">🕒 Vérification...</p>
+            <a href="../vtuber/temperyia.html" class="btn btn-profile">Voir le profil</a>
+            <a href="https://www.twitch.tv/temperyia" target="_blank" class="btn btn-twitch">Voir sur Twitch</a>
+        </div>
+
     </div>
     </div>
 

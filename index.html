@@ -1,46 +1,76 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Site en Construction</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Vtuber Link — Prototype</title>
+  <link rel="manifest" href="manifest.json" />
+  <link rel="icon" href="icons/favicon.ico" />
+  <meta name="theme-color" content="#0a1128" />
   <style>
-    body {
-      margin: 0;
-      padding: 0;
-      font-family: Arial, sans-serif;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      background-color: #0a1128; /* Bleu très sombre */
-      color: #ffffff; /* Texte blanc pour le contraste */
-      text-align: center;
-    }
-    h1 {
-      font-size: 2.5rem;
-      margin-bottom: 1rem;
-    }
-    p {
-      font-size: 1.2rem;
-    }
-    .footer {
-      position: absolute;
-      bottom: 10px;
-      width: 100%;
-      text-align: center;
-      font-size: 0.9rem;
-      color: #a9a9a9;
-    }
+    :root{--bg:#0a1128;--fg:#fff;--muted:#9aa4c7;--accent:#f0a500;--card:#0f1b4c}
+    *{box-sizing:border-box}
+    body{margin:0;background:var(--bg);color:var(--fg);font-family:system-ui,Segoe UI,Roboto,Arial,sans-serif}
+    header{position:sticky;top:0;background:#0c1540;border-bottom:1px solid #1c2a6b}
+    .wrap{max-width:1000px;margin:0 auto;padding:16px}
+    nav{display:flex;gap:12px;flex-wrap:wrap}
+    nav a{padding:8px 12px;border-radius:10px;background:var(--card);color:var(--fg);text-decoration:none}
+    nav a.cta{background:var(--accent);color:#161616;font-weight:700}
+    .hero{padding:48px 16px}
+    .hero h1{margin:0 0 8px;font-size:clamp(22px,3vw,34px)}
+    .hero p{color:var(--muted);max-width:70ch}
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;margin:32px 0}
+    .card{background:var(--card);border:1px solid #1c2a6b;border-radius:14px;padding:16px}
+    .card h3{margin:0 0 6px}
+    footer{color:var(--muted);padding:24px 16px;border-top:1px solid #1c2a6b}
+    .badge{display:inline-block;padding:2px 8px;border-radius:999px;background:#102368;color:#c7d0f5;font-size:12px}
   </style>
+  <script>
+    if('serviceWorker' in navigator){
+      navigator.serviceWorker.register('sw.js').catch(console.error);
+    }
+  </script>
 </head>
 <body>
-  <div>
-    <h1>🛠️ Site en Construction</h1>
-    <p>Nous travaillons dur pour créer quelque chose d'incroyable. Restez à l'écoute !</p>
-    <div class="footer">
-      © 2025 - Vtuber par lotaku.fr
+  <header>
+    <div class="wrap">
+      <nav>
+        <a href="pages/selection.html">Sélection</a>
+        <a href="vtuber/profile-template.html">Exemple de profil</a>
+        <a href="pages/login.html">Connexion</a>
+        <a href="pages/register.html">Inscription</a>
+        <a href="pages/mentions-legales.html">Mentions légales</a>
+        <a href="pages/cgu.html">CGU</a>
+        <a href="pages/confidentialite.html">Confidentialité</a>
+        <span class="badge">Prototype</span>
+      </nav>
     </div>
-  </div>
+  </header>
+
+  <main class="wrap hero">
+    <h1>Vtuber Link — Prototype public</h1>
+    <p>Ce site est une <strong>démo navigable</strong> : certaines fonctionnalités sont simulées.
+       Vous pouvez parcourir la page <em>Sélection</em>, des profils de Vtubers, et voir les écrans de connexion/inscription (inactifs).</p>
+
+    <div class="grid">
+      <div class="card">
+        <h3>Découvrir les Vtubers</h3>
+        <p>Parcourez une sélection de Vtubers et accédez à leurs profils et liens.</p>
+        <p><a href="pages/selection.html">Ouvrir la sélection →</a></p>
+      </div>
+      <div class="card">
+        <h3>Créer un compte (bientôt)</h3>
+        <p>Boutons et formulaires présents mais désactivés — cette section arrive.</p>
+        <p><a href="pages/login.html">Voir la connexion →</a></p>
+      </div>
+      <div class="card">
+        <h3>PWA installable</h3>
+        <p>Ajoutez ce site à l’écran d’accueil. Le mode hors-ligne basique est inclus.</p>
+        <p>Si quelque chose ne charge pas hors-ligne, réessayez après une visite en ligne.</p>
+      </div>
+    </div>
+  </main>
+
+  <footer class="wrap">© 2025 Vtuber Link — Prototype</footer>
 </body>
 </html>

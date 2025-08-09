@@ -2,21 +2,13 @@
   "name": "VTuber Streams",
   "short_name": "VTuber",
   "description": "Regarde tes VTubers préférés en un clic !",
-  "start_url": "/pages/selection.html",
-    "display": "standalone",
-    "scope": "../",
-    "theme_color": "#f0a500",
-    "background_color": "#0a1128",
-    "icons": [
-        {
-            "src": "/icon-192x192.png",
-            "sizes": "192x192",
-            "type": "image/png"
-        },
-        {
-            "src": "/icon-512x512.png",
-            "sizes": "512x512",
-            "type": "image/png"
-        }
-    ]
+  "start_url": "index.html",
+  "display": "standalone",
+  "scope": "./",
+  "theme_color": "#f0a500",
+  "background_color": "#0a1128",
+  "icons": [
+    { "src": "icons/web-app-manifest-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/web-app-manifest-512x512.png", "sizes": "512x512", "type": "image/png" }
+  ]
 }
