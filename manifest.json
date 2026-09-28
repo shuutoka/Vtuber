@@ -1,14 +1,1 @@
-{
-  "name": "VTuber Streams",
-  "short_name": "VTuber",
-  "description": "Regarde tes VTubers préférés en un clic !",
-  "start_url": "index.html",
-  "display": "standalone",
-  "scope": "./",
-  "theme_color": "#f0a500",
-  "background_color": "#0a1128",
-  "icons": [
-    { "src": "icons/web-app-manifest-192x192.png", "sizes": "192x192", "type": "image/png" },
-    { "src": "icons/web-app-manifest-512x512.png", "sizes": "512x512", "type": "image/png" }
-  ]
-}
+{"name":"Vtuber Link","short_name":"Vtuber Link","description":"Portail de découverte de la scène VTuber francophone","start_url":"./","scope":"./","display":"standalone","theme_color":"#0c1027","background_color":"#090d20","icons":[{"src":"icons/web-app-manifest-192x192.png","sizes":"192x192","type":"image/png"},{"src":"icons/web-app-manifest-512x512.png","sizes":"512x512","type":"image/png"}]}

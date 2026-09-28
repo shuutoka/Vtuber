@@ -1,76 +1,10 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Vtuber Link — Prototype</title>
-  <link rel="manifest" href="manifest.json" />
-  <link rel="icon" href="icons/favicon.ico" />
-  <meta name="theme-color" content="#0a1128" />
-  <style>
-    :root{--bg:#0a1128;--fg:#fff;--muted:#9aa4c7;--accent:#f0a500;--card:#0f1b4c}
-    *{box-sizing:border-box}
-    body{margin:0;background:var(--bg);color:var(--fg);font-family:system-ui,Segoe UI,Roboto,Arial,sans-serif}
-    header{position:sticky;top:0;background:#0c1540;border-bottom:1px solid #1c2a6b}
-    .wrap{max-width:1000px;margin:0 auto;padding:16px}
-    nav{display:flex;gap:12px;flex-wrap:wrap}
-    nav a{padding:8px 12px;border-radius:10px;background:var(--card);color:var(--fg);text-decoration:none}
-    nav a.cta{background:var(--accent);color:#161616;font-weight:700}
-    .hero{padding:48px 16px}
-    .hero h1{margin:0 0 8px;font-size:clamp(22px,3vw,34px)}
-    .hero p{color:var(--muted);max-width:70ch}
-    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;margin:32px 0}
-    .card{background:var(--card);border:1px solid #1c2a6b;border-radius:14px;padding:16px}
-    .card h3{margin:0 0 6px}
-    footer{color:var(--muted);padding:24px 16px;border-top:1px solid #1c2a6b}
-    .badge{display:inline-block;padding:2px 8px;border-radius:999px;background:#102368;color:#c7d0f5;font-size:12px}
-  </style>
-  <script>
-    if('serviceWorker' in navigator){
-      navigator.serviceWorker.register('sw.js').catch(console.error);
-    }
-  </script>
-</head>
-<body>
-  <header>
-    <div class="wrap">
-      <nav>
-        <a href="pages/selection.html">Sélection</a>
-        <a href="vtuber/profile-template.html">Exemple de profil</a>
-        <a href="pages/login.html">Connexion</a>
-        <a href="pages/register.html">Inscription</a>
-        <a href="pages/mentions-legales.html">Mentions légales</a>
-        <a href="pages/cgu.html">CGU</a>
-        <a href="pages/confidentialite.html">Confidentialité</a>
-        <span class="badge">Prototype</span>
-      </nav>
-    </div>
-  </header>
-
-  <main class="wrap hero">
-    <h1>Vtuber Link — Prototype public</h1>
-    <p>Ce site est une <strong>démo navigable</strong> : certaines fonctionnalités sont simulées.
-       Vous pouvez parcourir la page <em>Sélection</em>, des profils de Vtubers, et voir les écrans de connexion/inscription (inactifs).</p>
-
-    <div class="grid">
-      <div class="card">
-        <h3>Découvrir les Vtubers</h3>
-        <p>Parcourez une sélection de Vtubers et accédez à leurs profils et liens.</p>
-        <p><a href="pages/selection.html">Ouvrir la sélection →</a></p>
-      </div>
-      <div class="card">
-        <h3>Créer un compte (bientôt)</h3>
-        <p>Boutons et formulaires présents mais désactivés — cette section arrive.</p>
-        <p><a href="pages/login.html">Voir la connexion →</a></p>
-      </div>
-      <div class="card">
-        <h3>PWA installable</h3>
-        <p>Ajoutez ce site à l’écran d’accueil. Le mode hors-ligne basique est inclus.</p>
-        <p>Si quelque chose ne charge pas hors-ligne, réessayez après une visite en ligne.</p>
-      </div>
-    </div>
-  </main>
-
-  <footer class="wrap">© 2025 Vtuber Link — Prototype</footer>
-</body>
-</html>
+<!doctype html>
+<html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="theme-color" content="#0c1027"><meta name="description" content="Découvrez les VTubers francophones en live, les créatrices Spotlight et les événements de la scène."><title>Vtuber Link — La scène VTuber francophone</title><link rel="icon" href="icons/favicon.svg" type="image/svg+xml"><link rel="manifest" href="manifest.json"><link rel="stylesheet" href="assets/css/site.css"><script type="module" src="assets/js/app.js"></script></head>
+<body><a class="skip" href="#main">Aller au contenu</a><header class="site-header"><div class="shell header-inner"><a class="brand" href="#accueil" aria-label="Vtuber Link, accueil"><span class="brand-mark">VL<span>✦</span></span><span>Vtuber<span class="brand-light"> Link</span></span></a><button class="menu-toggle" type="button" aria-expanded="false" aria-controls="nav">Menu ☰</button><nav id="nav" aria-label="Navigation principale"><a href="#accueil">Accueil</a><a href="#decouvrir">Découvrir</a><a href="#evenements">Événements</a><a href="#spotlight">Spotlight</a><a href="#professionnels">Professionnels</a><a href="#apropos">À propos</a></nav></div></header>
+<main id="main"><section class="hero shell" id="accueil"><div class="hero-copy"><div class="eyebrow"><span class="spark">✦</span> LE PORTAIL DES VTUBERS FRANCOPHONES</div><h1>La scène virtuelle.<br><em>Les vraies rencontres.</em></h1><p>Découvrez qui diffuse en ce moment, trouvez votre prochain raid et explorez les créatrices mises en lumière par Vtuber Link.</p><div class="hero-actions"><a class="button primary" href="#decouvrir">Explorer les lives ↗</a><a class="button ghost" href="#spotlight">Découvrir le Spotlight</a></div><div class="hero-note">Une sélection indépendante, ouverte à la découverte.</div></div><div class="hero-panel" aria-hidden="true"><div class="orbit orbit-one"></div><div class="orbit orbit-two"></div><div class="hero-glyph">✦</div><div class="floating-card card-one"><span class="live-dot"></span> EN DIRECT <span class="line"></span></div><div class="floating-card card-two">✧ &nbsp; CRÉATEURS À DÉCOUVRIR</div></div></section>
+<section class="section shell" id="decouvrir"><div class="section-heading"><div><span class="kicker">01 / DÉCOUVRIR</span><h2>À regarder <em>maintenant</em></h2><p>Les informations sont mises à jour automatiquement lorsque la synchronisation Twitch est disponible.</p></div><span id="live-timestamp" class="timestamp"></span></div><div class="toolbar"><div class="tabs" role="group" aria-label="Filtrer par statut"><button class="tab active" data-filter="live" aria-pressed="true">● En live <span id="live-count"></span></button><button class="tab" data-filter="all" aria-pressed="false">Tous</button><button class="tab" data-filter="offline" aria-pressed="false">Hors ligne</button></div><div class="toolbar-right"><label class="search"><span class="sr-only">Rechercher un VTuber</span><input id="search" type="search" placeholder="Rechercher un VTuber…" autocomplete="off"></label><button class="button outline" id="raid" type="button">✦ Qui raider ?</button></div></div><p id="data-status" class="notice" role="status"></p><div id="raid-result" class="raid-result" role="status" hidden></div><div id="creator-grid" class="creator-grid" aria-live="polite"></div></section>
+<section class="section spotlight-section" id="spotlight"><div class="shell"><div class="section-heading"><div><span class="kicker">02 / SPOTLIGHT</span><h2>Des univers à <em>rencontrer</em></h2><p>Quatre créatrices indépendantes mises en avant. Leurs présentations seront complétées avec elles.</p></div></div><div id="spotlight-grid" class="spotlight-grid"></div><p class="section-foot">Vtuber Link offre une vitrine et facilite les prises de contact. Les créatrices restent indépendantes.</p></div></section>
+<section class="section shell" id="evenements"><div class="section-heading"><div><span class="kicker">03 / AGENDA</span><h2>Les prochains <em>rendez-vous</em></h2><p>Débuts, collaborations, conventions, concerts, tournois et événements caritatifs.</p></div></div><div id="event-list" class="event-list"></div></section>
+<section class="section pro-section" id="professionnels"><div class="shell pro-layout"><div><span class="kicker">04 / PROFESSIONNELS</span><h2>Imaginons une <em>rencontre.</em></h2><p>Vous représentez une marque, un événement, un média, une association ou un projet créatif ? Préparez une proposition claire à transmettre à la créatrice concernée.</p><div class="pro-tags"><span>Sponsoring</span><span>Événement</span><span>Collaboration</span><span>Interview</span><span>Projet artistique</span></div><p class="disclaimer">Vtuber Link n'est pas une agence et ne représente pas commercialement les créatrices. Toute participation dépend de leur accord direct.</p></div><form id="contact-form" class="contact-card"><h3>Préparer une proposition</h3><p>Le formulaire compose un message sur votre appareil. Il n'envoie aucune donnée à Vtuber Link.</p><div class="field-row"><label>Votre nom ou organisation<input name="sender" required maxlength="120" autocomplete="organization"></label><label>Votre adresse e-mail<input name="email" type="email" required maxlength="160" autocomplete="email"></label></div><div class="field-row"><label>Créatrice<select name="creator" id="contact-creator" required></select></label><label>Type de proposition<select name="type" required><option>Sponsoring</option><option>Événement</option><option>Collaboration</option><option>Interview</option><option>Projet artistique</option><option>Autre proposition</option></select></label></div><label>Votre proposition<textarea name="message" required minlength="20" maxlength="5000" rows="5" placeholder="Présentez votre projet, les dates, le budget éventuel et ce que vous proposez."></textarea></label><button class="button primary" type="submit">Préparer le message ↗</button><p id="contact-result" class="form-result" role="status"></p></form></div></section>
+<section class="section shell about" id="apropos"><span class="kicker">05 / À PROPOS</span><h2>Un lien pour la <em>scène francophone.</em></h2><p>Vtuber Link aide le public à découvrir des VTubers et rend leurs liens plus accessibles. Le Spotlight est une sélection éditoriale indépendante, sans mandat de représentation. Les événements affichés sont renseignés manuellement et vérifiés avant publication.</p></section></main>
+<footer><div class="shell footer-inner"><span class="brand">Vtuber<span class="brand-light"> Link</span></span><span>© <span id="year"></span> Vtuber Link</span><div><a href="pages/mentions-legales.html">Mentions légales</a><a href="pages/cgu.html">CGU</a><a href="pages/confidentialite.html">Confidentialité</a></div></div></footer></body></html>
