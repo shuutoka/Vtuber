@@ -1,0 +1,77 @@
+/* Transform/opacity only for UI movement; respect OS accessibility preferences. */
+@keyframes signal-flow {
+  from {
+    stroke-dashoffset: 1000;
+  }
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+@keyframes view-enter {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@keyframes orbit-drift {
+  0%,
+  100% {
+    transform: rotate(-25deg) scaleY(0.84);
+  }
+  50% {
+    transform: rotate(10deg) scaleY(0.9);
+  }
+}
+@keyframes loading-connect {
+  50% {
+    opacity: 0.4;
+    transform: scale(0.92);
+  }
+}
+.branch-signal {
+  animation: signal-flow 7s linear infinite;
+}
+.view-arrival {
+  animation: view-enter 0.28s ease both;
+}
+.loading-link {
+  animation: loading-connect 1.5s ease-in-out infinite;
+}
+.spotlight-access .portrait-orbit {
+  animation: orbit-drift 10s ease-in-out infinite;
+  animation-delay: calc(var(--index) * -2s);
+}
+.spotlight-access .large-portrait {
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease;
+}
+.spotlight-access:hover .large-portrait {
+  transform: translateY(-4px);
+  box-shadow: 0 0 0 12px #ffffff04;
+}
+.raid-result {
+  animation: view-enter 0.35s ease both;
+}
+.button.primary:hover {
+  transform: translateY(-2px);
+}
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *:before,
+  *:after {
+    animation: none !important;
+    transition: none !important;
+  }
+  .spotlight-access:hover .large-portrait,
+  .button.primary:hover {
+    transform: none;
+  }
+}

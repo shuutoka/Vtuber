@@ -1,0 +1,257 @@
+/* Shared tokens. Spotlight changes only the ambient accent, never the text contrast. */
+:root {
+  color-scheme: dark;
+  --bg: #101522;
+  --surface: #171e2d;
+  --surface-2: #1d2636;
+  --ink: #f4f1ec;
+  --muted: #a5adbd;
+  --line: #384355;
+  --accent: #c8b4f2;
+  --glow: 200, 180, 242;
+  --cyan: #94ded8;
+  --pink: #ee99b7;
+  --rail: 184px;
+  --dock: 100px;
+  --font:
+    Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", sans-serif;
+}
+* {
+  box-sizing: border-box;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font: 15px/1.55 var(--font);
+}
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+button,
+a {
+  touch-action: manipulation;
+}
+button {
+  cursor: pointer;
+}
+a {
+  color: inherit;
+}
+a,
+button,
+input,
+select,
+textarea {
+  outline-offset: 5px;
+}
+:focus-visible {
+  outline: 2px solid var(--cyan);
+}
+button:disabled {
+  cursor: wait;
+  opacity: 0.55;
+}
+h1,
+h2,
+h3,
+p {
+  margin-top: 0;
+}
+h1,
+h2,
+h3 {
+  line-height: 1.12;
+  font-weight: 650;
+  letter-spacing: -0.045em;
+}
+h1 {
+  font-size: clamp(32px, 3.6vw, 53px);
+  margin-bottom: 14px;
+}
+h2 {
+  font-size: 28px;
+}
+h3 {
+  font-size: 19px;
+}
+.overline {
+  display: block;
+  font:
+    600 10px ui-monospace,
+    SFMono-Regular,
+    monospace;
+  letter-spacing: 0.17em;
+  color: var(--muted);
+}
+.muted {
+  color: var(--muted);
+}
+.button,
+.text-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+  text-decoration: none;
+  border: 1px solid var(--line);
+  background: transparent;
+  color: var(--ink);
+  padding: 11px 17px;
+  font-size: 12px;
+  font-weight: 650;
+  transition:
+    background 0.2s,
+    border-color 0.2s,
+    transform 0.2s;
+}
+.button:hover {
+  background: var(--surface-2);
+  border-color: var(--accent);
+}
+.button.primary {
+  background: var(--accent);
+  color: #141922;
+  border-color: var(--accent);
+}
+.text-button {
+  padding: 7px 0;
+  border: 0;
+  color: var(--muted);
+}
+.text-button:hover {
+  color: var(--ink);
+}
+.button-row {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font:
+    700 9px ui-monospace,
+    monospace;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+}
+.badge:before {
+  content: "";
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: currentColor;
+}
+.badge.live {
+  color: #f6a1b3;
+}
+.badge.offline {
+  color: #b5b9c7;
+}
+.portrait {
+  display: inline-flex;
+  position: relative;
+  flex: none;
+  overflow: hidden;
+  background: #293448;
+  align-items: center;
+  justify-content: center;
+}
+.portrait img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.portrait-fallback {
+  font-weight: 500;
+  font-size: inherit;
+  color: #e9e1f6;
+}
+.empty {
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  padding: 32px 0;
+  color: var(--muted);
+}
+.notice {
+  font-size: 12px;
+  color: var(--muted);
+  padding: 10px 13px;
+  border-left: 2px solid var(--accent);
+  background: #ffffff04;
+  line-height: 1.6;
+}
+.skip {
+  position: fixed;
+  left: -9999px;
+  z-index: 100;
+  background: var(--cyan);
+  color: var(--bg);
+  padding: 10px;
+}
+.skip:focus {
+  left: 20px;
+  top: 15px;
+}
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+}
+[hidden] {
+  display: none !important;
+}
+.noscript {
+  position: fixed;
+  bottom: 0;
+  background: #222e45;
+  padding: 20px;
+  z-index: 30;
+}
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  font-size: 12px;
+  color: var(--muted);
+}
+input,
+select,
+textarea {
+  width: 100%;
+  min-width: 0;
+  background: #121b29;
+  border: 1px solid var(--line);
+  border-radius: 0;
+  color: var(--ink);
+  padding: 11px 12px;
+}
+textarea {
+  resize: vertical;
+}
+.divider {
+  height: 1px;
+  background: var(--line);
+  margin: 25px 0;
+}
+.footnote {
+  font-size: 12px;
+  color: var(--muted);
+}
+.spotlight-main:focus-visible,
+.channel-preview:focus-visible {
+  outline-offset: -3px;
+}

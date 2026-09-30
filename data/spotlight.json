@@ -1,0 +1,61 @@
+[
+  {
+    "id": "ryllaka",
+    "login": "ryllaka",
+    "name": "Ryllaka",
+    "color": "#ef8fae",
+    "intro": null,
+    "universe": null,
+    "content": null,
+    "collaboration": null,
+    "contactEmail": null,
+    "mediaKit": null,
+    "socials": [
+      { "label": "Discord", "url": "https://discord.gg/qMbxEAMdZJ" },
+      { "label": "YouTube", "url": "https://www.youtube.com/@ryllaka0.0" }
+    ],
+    "media": []
+  },
+  {
+    "id": "lulufaevt",
+    "login": "lulufaevt",
+    "name": "LuluFaeVT",
+    "color": "#88ddd6",
+    "intro": null,
+    "universe": null,
+    "content": null,
+    "collaboration": null,
+    "contactEmail": null,
+    "mediaKit": null,
+    "socials": [],
+    "media": []
+  },
+  {
+    "id": "yuann_art",
+    "login": "yuann_art",
+    "name": "Yuann_art",
+    "color": "#c3adf5",
+    "intro": null,
+    "universe": null,
+    "content": null,
+    "collaboration": null,
+    "contactEmail": null,
+    "mediaKit": null,
+    "socials": [],
+    "media": []
+  },
+  {
+    "id": "nixy_vt",
+    "login": "nixy_vt",
+    "name": "Nixy_vt",
+    "color": "#f1c47c",
+    "intro": null,
+    "universe": null,
+    "content": null,
+    "collaboration": null,
+    "contactEmail": null,
+    "mediaKit": null,
+    "socials": [],
+    "media": []
+  }
+]

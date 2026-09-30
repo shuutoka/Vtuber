@@ -1,0 +1,123 @@
+.back-link {
+  font-size: 11px;
+  text-decoration: none;
+  color: var(--muted);
+}
+.profile-banner {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+  padding: 45px 0 40px;
+  position: relative;
+  overflow: hidden;
+  border-bottom: 1px solid var(--line);
+}
+.profile-banner .overline {
+  color: var(--person);
+  margin-bottom: 10px;
+}
+.profile-banner h1 {
+  font-size: clamp(36px, 5vw, 70px);
+  margin: 4px 0 10px;
+}
+.profile-portrait {
+  width: 142px;
+  height: 142px;
+  border-radius: 50%;
+  font-size: 65px;
+  border: 2px solid var(--person);
+  box-shadow: 0 0 0 12px #ffffff03;
+  z-index: 1;
+}
+.profile-viewers {
+  font-size: 11px;
+  color: var(--muted);
+  margin-left: 14px;
+}
+.profile-network {
+  position: absolute;
+  right: 0;
+  top: 25px;
+  width: 48%;
+  height: 200px;
+  opacity: 0.3;
+  background:
+    linear-gradient(
+      90deg,
+      transparent 10%,
+      var(--person) 10%,
+      var(--person) calc(10% + 1px),
+      transparent calc(10% + 1px)
+    ),
+    linear-gradient(
+      0deg,
+      transparent 50%,
+      var(--person) 50%,
+      var(--person) calc(50% + 1px),
+      transparent calc(50% + 1px)
+    );
+  transform: skewY(-15deg);
+  pointer-events: none;
+}
+.profile-banner > div:last-child {
+  z-index: 1;
+}
+.profile-layout {
+  display: grid;
+  grid-template-columns: 1fr 270px;
+  gap: 45px;
+  margin-top: 30px;
+}
+.profile-links {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-bottom: 32px;
+}
+.profile-links .button {
+  font-size: 11px;
+}
+.profile-block {
+  padding: 22px 0;
+  border-top: 1px solid var(--line);
+}
+.profile-block .overline {
+  margin-bottom: 13px;
+}
+.profile-block h2 {
+  font-size: 23px;
+  letter-spacing: -0.02em;
+  overflow-wrap: anywhere;
+}
+.profile-block p {
+  color: #bbc3d2;
+  font-size: 13px;
+  line-height: 1.8;
+}
+.public-bio {
+  white-space: pre-line;
+  overflow-wrap: anywhere;
+}
+.profile-editorial {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+.profile-sidebar {
+  border-left: 1px solid var(--line);
+  padding-left: 23px;
+}
+.profile-sidebar section {
+  padding-bottom: 22px;
+  margin-bottom: 22px;
+  border-bottom: 1px solid var(--line);
+}
+.profile-sidebar p {
+  margin-top: 14px;
+  font-size: 12px;
+  color: var(--muted);
+  line-height: 1.8;
+}
+.profile-sidebar .footnote {
+  font-size: 11px;
+}

@@ -1,0 +1,217 @@
+@media (max-width: 1250px) {
+  .spotlight-main {
+    padding: 12px;
+  }
+  .access-number {
+    font-size: 8px;
+  }
+  .badge {
+    font-size: 8px;
+  }
+  .spotlight-top {
+    flex-wrap: wrap;
+  }
+  .access-visual {
+    height: 120px;
+  }
+  .large-portrait {
+    width: 78px;
+    height: 78px;
+    font-size: 35px;
+  }
+  .portrait-orbit {
+    width: 99px;
+    height: 99px;
+  }
+  .profile-layout {
+    grid-template-columns: 1fr 220px;
+    gap: 25px;
+  }
+  .channel-grid {
+    gap: 25px 15px;
+  }
+  .filter-bar {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+@media (max-width: 950px) {
+  .spotlight-accesses {
+    grid-template-columns: 1fr 1fr;
+  }
+  .link-branches {
+    display: none;
+  }
+  .launchpad-header {
+    margin-bottom: 25px;
+  }
+  .launchpad-note {
+    display: none;
+  }
+  .spotlight-top {
+    flex-wrap: nowrap;
+  }
+  .access-visual {
+    height: 110px;
+  }
+  .spotlight-main {
+    padding: 14px;
+  }
+  .access-name {
+    font-size: 20px;
+  }
+  .channel-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+  .profile-layout {
+    grid-template-columns: 1fr;
+  }
+  .profile-sidebar {
+    padding-left: 0;
+    border-left: 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 25px;
+  }
+  .pro-layout {
+    grid-template-columns: 1fr;
+    gap: 25px;
+  }
+  .profile-banner {
+    gap: 23px;
+  }
+  .profile-portrait {
+    width: 105px;
+    height: 105px;
+    font-size: 50px;
+  }
+}
+@media (max-width: 560px) {
+  .launchpad-header h1 {
+    font-size: 32px;
+  }
+  .launchpad-header .overline {
+    font-size: 8px;
+  }
+  .spotlight-accesses {
+    gap: 9px;
+  }
+  .spotlight-main {
+    padding: 12px;
+  }
+  .spotlight-top {
+    flex-wrap: wrap;
+  }
+  .badge,
+  .access-number {
+    font-size: 8px;
+  }
+  .access-visual {
+    height: 101px;
+  }
+  .access-name {
+    font-size: 18px;
+  }
+  .access-twitch {
+    padding: 9px 12px;
+  }
+  .channel-grid {
+    gap: 25px 12px;
+  }
+  .channel-heading {
+    gap: 7px;
+  }
+  .channel-heading .portrait {
+    width: 27px;
+    height: 27px;
+    font-size: 15px;
+  }
+  .channel-name {
+    font-size: 11px;
+  }
+  .channel-heading p {
+    font-size: 9px;
+  }
+  .channel-title {
+    font-size: 10px;
+  }
+  .preview-viewers {
+    font-size: 7px;
+    padding: 2px 3px;
+    bottom: 5px;
+    left: 5px;
+  }
+  .preview-live {
+    font-size: 7px;
+    top: 6px;
+    left: 6px;
+  }
+  .preview-arrow {
+    font-size: 18px;
+    right: 6px;
+    top: 4px;
+  }
+  .profile-banner {
+    align-items: start;
+    flex-direction: column;
+    padding-top: 30px;
+  }
+  .profile-editorial,
+  .profile-sidebar {
+    grid-template-columns: 1fr;
+  }
+  .profile-sidebar {
+    gap: 0;
+  }
+  .form-row {
+    grid-template-columns: 1fr;
+  }
+  .archive-links {
+    grid-template-columns: 1fr;
+  }
+  .event {
+    flex-wrap: wrap;
+    gap: 13px;
+  }
+  .event .button {
+    margin-left: 0;
+  }
+  .filter-bar {
+    gap: 12px 9px;
+  }
+  .filter-bar input,
+  .filter-bar select {
+    font-size: 10px;
+    padding: 10px 9px;
+  }
+  .discovery-source {
+    font-size: 9px;
+  }
+  .results-head {
+    font-size: 9px;
+  }
+  .results-head span:last-child {
+    font-size: 7px;
+  }
+  .raid-dialog {
+    padding: 28px 20px;
+  }
+}
+@media (max-width: 350px) {
+  .channel-grid {
+    grid-template-columns: 1fr;
+  }
+  .spotlight-accesses {
+    grid-template-columns: 1fr 1fr;
+  }
+  .access-name {
+    font-size: 16px;
+  }
+  .portrait-orbit {
+    width: 92px;
+    height: 92px;
+  }
+  .large-portrait {
+    width: 70px;
+    height: 70px;
+  }
+}

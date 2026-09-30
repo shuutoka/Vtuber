@@ -1,27 +1,30 @@
 name: Actualiser les lives Twitch
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: "*/15 * * * *"
   workflow_dispatch:
 permissions:
   contents: write
+  pages: write
 concurrency:
   group: update-live
   cancel-in-progress: false
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version: '22'
+          node-version: "22"
       - name: Récupérer les directs
         env:
           TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
           TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
         run: node scripts/update-live.mjs
       - name: Publier l'instantané
+        id: snapshot
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
@@ -29,4 +32,18 @@ jobs:
           if ! git diff --cached --quiet; then
             git commit -m 'Actualiser les lives Twitch'
             git push
+            echo 'changed=true' >> "$GITHUB_OUTPUT"
           fi
+      - name: Actualiser le site GitHub Pages
+        if: steps.snapshot.outputs.changed == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            // A GITHUB_TOKEN commit does not start a branch-based Pages build.
+            const params = {owner: context.repo.owner, repo: context.repo.repo};
+            const page = await github.rest.repos.getPages(params);
+            if (page.data.build_type === 'workflow') {
+              core.notice('Source Pages = Actions : utiliser un workflow de déploiement après cette synchronisation.');
+            } else if (page.data.source?.branch === context.ref.replace('refs/heads/', '')) {
+              await github.rest.repos.requestPagesBuild(params);
+            }

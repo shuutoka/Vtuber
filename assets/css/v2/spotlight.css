@@ -1,0 +1,193 @@
+.launchpad {
+  padding-bottom: 30px;
+  position: relative;
+}
+.launchpad-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  gap: 25px;
+}
+.launchpad-header .overline {
+  margin-bottom: 14px;
+}
+.launchpad-header h1 {
+  margin-bottom: 0;
+}
+.launchpad-header h1 em {
+  font-style: normal;
+  color: var(--accent);
+}
+.launchpad-note {
+  font:
+    500 9px ui-monospace,
+    monospace;
+  color: var(--muted);
+  letter-spacing: 0.1em;
+  white-space: nowrap;
+  padding-bottom: 10px;
+}
+.launchpad-note span {
+  font-size: 24px;
+  color: var(--accent);
+  margin-left: 15px;
+}
+.link-branches {
+  height: 42px;
+  margin-top: 20px;
+}
+.link-branches svg {
+  width: 100%;
+  height: 100%;
+  fill: none;
+  stroke-width: 1;
+  overflow: visible;
+}
+.branch-track {
+  stroke: #414b5d;
+}
+.branch-signal {
+  stroke: var(--accent);
+  stroke-dasharray: 35 1000;
+  opacity: 0.65;
+}
+.spotlight-accesses {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px;
+}
+.spotlight-access {
+  position: relative;
+  background: linear-gradient(
+    160deg,
+    color-mix(in srgb, var(--person), transparent 92%),
+    #172030
+  );
+  border: 1px solid #3c4354;
+  border-top: 2px solid var(--person);
+  clip-path: polygon(0 0, calc(100% - 13px) 0, 100% 13px, 100% 100%, 0 100%);
+  min-width: 0;
+}
+.spotlight-access:before {
+  content: "";
+  position: absolute;
+  pointer-events: none;
+  inset: 0;
+  opacity: 0;
+  background: radial-gradient(
+    200px circle at var(--mx, 50%) var(--my, 30%),
+    color-mix(in srgb, var(--person), transparent 90%),
+    transparent 90%
+  );
+  transition: opacity 0.25s;
+}
+.spotlight-access:hover:before {
+  opacity: 1;
+}
+.spotlight-main {
+  display: block;
+  padding: 15px 16px 10px;
+  text-decoration: none;
+}
+.spotlight-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 7px;
+}
+.access-number {
+  font:
+    500 9px ui-monospace,
+    monospace;
+  color: var(--person);
+}
+.access-visual {
+  height: 142px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+.large-portrait {
+  width: 93px;
+  height: 93px;
+  border-radius: 50%;
+  font-size: 45px;
+  z-index: 1;
+  border: 2px solid var(--person);
+  box-shadow: 0 0 0 8px #ffffff03;
+}
+.portrait-orbit {
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  border: 1px solid color-mix(in srgb, var(--person), transparent 70%);
+  border-radius: 50%;
+  transform: rotate(-25deg) scaleY(0.84);
+}
+.portrait-orbit:after {
+  content: "";
+  width: 5px;
+  height: 5px;
+  background: var(--person);
+  border-radius: 50%;
+  position: absolute;
+  left: 15px;
+  top: 10px;
+}
+.access-spark {
+  position: absolute;
+  right: 0;
+  top: 18px;
+  color: var(--person);
+  font-size: 20px;
+  opacity: 0.7;
+}
+.access-name {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 5px;
+  font-size: clamp(15px, 1.5vw, 22px);
+  font-weight: 650;
+  letter-spacing: -0.035em;
+  overflow-wrap: anywhere;
+}
+.access-name > span {
+  font-size: 18px;
+  color: var(--person);
+  transition: transform 0.2s;
+}
+.spotlight-access:hover .access-name > span {
+  transform: translate(3px, -3px);
+}
+.access-subtitle {
+  display: block;
+  margin-top: 6px;
+  font-size: 10px;
+  color: var(--muted);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.access-twitch {
+  display: flex;
+  justify-content: space-between;
+  padding: 11px 16px;
+  border-top: 1px solid #ffffff0c;
+  font:
+    600 9px ui-monospace,
+    monospace;
+  letter-spacing: 0.1em;
+  text-decoration: none;
+  color: var(--person);
+}
+.access-twitch:hover {
+  background: #ffffff05;
+}
+.launchpad-foot {
+  font-size: 10px;
+  color: #8f9bb1;
+  margin: 16px 0 0;
+  max-width: 660px;
+}
