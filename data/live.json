@@ -1,27 +1,31 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-21T02:44:43.377Z",
+  "updatedAt": "2026-11-21T10:17:13.272Z",
   "status": "ok",
   "streams": [
     {
-      "id": "319297395559",
-      "login": "lerangerduko",
-      "name": "LeRangerDuKO",
-      "title": "[Keizaal RP] 🍷Provinus, qui déguste 🍷 || !KeizaalFR !discord !sociale",
-      "category": "The Elder Scrolls V: Skyrim - Special Edition",
-      "categoryId": "1050003477",
-      "viewers": 125,
+      "id": "318423977444",
+      "login": "keola",
+      "name": "Keola",
+      "title": "『🍎DROPS🍏』PLEURS PAS MON PETIT PANDA ROUX ! // 🔥 // ❗VTAFR❗mute ❗rpn❗kofi",
+      "category": "The Binding of Isaac: Repentance",
+      "categoryId": "1414860634",
+      "viewers": 205,
       "language": "fr",
       "tags": [
-        "JdR",
-        "RP",
-        "Français",
         "Vtuber",
-        "vtuberfr",
-        "Vtuberfrançais"
+        "VtuberFR",
+        "Redpanda",
+        "Chıll",
+        "cute",
+        "Mute",
+        "Français",
+        "ASMR",
+        "FR",
+        "TFT"
       ],
-      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lerangerduko-640x360.jpg",
-      "startedAt": "2026-11-20T19:11:23Z"
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_keola-640x360.jpg",
+      "startedAt": "2026-11-21T06:42:02Z"
     },
     {
       "id": "318422372708",
@@ -30,7 +34,7 @@
       "title": "VR CHARITY EVENT 48h non stop ! [Evenement caritatif] !charity !merch",
       "category": "Special Events",
       "categoryId": "509663",
-      "viewers": 100,
+      "viewers": 40,
       "language": "fr",
       "tags": [
         "Vtuber",
@@ -48,318 +52,40 @@
       "startedAt": "2026-11-20T23:53:49Z"
     },
     {
-      "id": "318421801571",
-      "login": "dreamia",
-      "name": "Dreamia",
-      "title": "🌸 [FR-DROPS] 🌸 | PETITE SESSION : NEXUS AVEC LA COMMU ? CHASSOZEU ? LOGIS 16 ? 🔥 #AniimoCreator | 🩷 !vta !commandes 🩷",
-      "category": "Aniimo",
-      "categoryId": "1267582829",
-      "viewers": 53,
+      "id": "318423566179",
+      "login": "mina_vulgaris",
+      "name": "Mina_Vulgaris",
+      "title": "Découverte de Soul Land un Meuporg !  | New emotes animées !Clip !avatar !soulland #Ad",
+      "category": "Soul Land: Awakening World",
+      "categoryId": "1840655988",
+      "viewers": 36,
       "language": "fr",
       "tags": [
-        "Français",
-        "gaming",
+        "Potatoe",
         "Vtuber",
-        "Streamrunners",
         "Femme",
-        "Friendly",
-        "feur",
-        "papayou",
-        "sixseven"
+        "Français"
       ],
-      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dreamia-640x360.jpg",
-      "startedAt": "2026-11-21T00:41:35Z"
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mina_vulgaris-640x360.jpg",
+      "startedAt": "2026-11-21T08:08:41Z"
     },
     {
-      "id": "321269680988",
-      "login": "lulunetv",
-      "name": "LuluneTV",
-      "title": "💜  Chacun sa route, chacun sa wai-fu (Partie 18) !movember #qc #jrpg #vtuberqc",
-      "category": "OCTOPATH TRAVELER II",
-      "categoryId": "332885450",
-      "viewers": 34,
+      "id": "318423763043",
+      "login": "gulliana_vt",
+      "name": "Gulliana_VT",
+      "title": "❄️.* ANOO ?!! | !secretsanta",
+      "category": "is this seat taken?",
+      "categoryId": "226996866",
+      "viewers": 25,
       "language": "fr",
       "tags": [
-        "vtuber",
-        "vtuberqc",
-        "vtuberfr",
-        "québec",
-        "rpg",
-        "jrpg",
-        "anime",
-        "qc",
-        "quebec",
-        "vtubing"
-      ],
-      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lulunetv-640x360.jpg",
-      "startedAt": "2026-11-21T00:57:11Z"
-    },
-    {
-      "id": "318355887330",
-      "login": "aikamorii",
-      "name": "AikaMorii",
-      "title": "💀KMS-ATHON💀[DAY 42] MIMIR TIME | SOUFFRIR POUR VOTRE ARGENT MAIS YA PLUS DE GOAL CEST FINIS | !kmsathon",
-      "category": "I'm Only Sleeping",
-      "categoryId": "498592",
-      "viewers": 19,
-      "language": "fr",
-      "tags": [
-        "vtuber",
-        "Français",
-        "English",
-        "tanuki",
-        "horrrorgames",
-        "DropsActivés"
-      ],
-      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aikamorii-640x360.jpg",
-      "startedAt": "2026-11-20T14:34:38Z"
-    },
-    {
-      "id": "318356863714",
-      "login": "oni_kaellra",
-      "name": "Oni_Kaellra",
-      "title": "(+18)Loutre en pleine dérive...⛔NOSPOIL⛔!discord !lurk",
-      "category": "Sky: Children of the Light",
-      "categoryId": "513553",
-      "viewers": 17,
-      "language": "fr",
-      "tags": [
-        "Français",
         "Vtuber",
-        "humouréclaté",
-        "SafeSpace4All",
-        "RoadToPartner",
-        "Oni",
-        "multigaming",
-        "loutre",
-        "fun",
-        "cayou"
-      ],
-      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_oni_kaellra-640x360.jpg",
-      "startedAt": "2026-11-20T15:47:57Z"
-    },
-    {
-      "id": "321261988316",
-      "login": "ikutokami",
-      "name": "IkutoKami",
-      "title": "+18[ENG/QC-FR]Rob Run + Zelda OoT Remake D: P.3 !! le jeu de mon enfance :D  ?!? !lurk !discord !slapme",
-      "category": "ROB RUN",
-      "categoryId": "1753787976",
-      "viewers": 13,
-      "language": "fr",
-      "tags": [
-        "VTUBER",
-        "Quebec",
-        "English",
-        "SafePlace",
-        "Bilingual",
-        "Daddy",
-        "DeepVoice",
-        "ASMRVibes",
+        "ElfVTuber",
         "Français",
-        "Husbando"
+        "AffiliateStreamer"
       ],
-      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ikutokami-640x360.jpg",
-      "startedAt": "2026-11-20T17:34:49Z"
-    },
-    {
-      "id": "318417554403",
-      "login": "datdamnsable",
-      "name": "DatDamnSable",
-      "title": "go se chill sur dbd là !",
-      "category": "Dead by Daylight",
-      "categoryId": "491487",
-      "viewers": 12,
-      "language": "fr",
-      "tags": [
-        "Français",
-        "deadbbydaylight",
-        "vtuberfr",
-        "Vtuber",
-        "ＤBD",
-        "chill",
-        "discussion",
-        "girl"
-      ],
-      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_datdamnsable-640x360.jpg",
-      "startedAt": "2026-11-20T19:50:44Z"
-    },
-    {
-      "id": "321504359520",
-      "login": "miirosca",
-      "name": "Miirosca",
-      "title": "[Fr/eng] Scrim!",
-      "category": "League of Legends",
-      "categoryId": "21779",
-      "viewers": 11,
-      "language": "fr",
-      "tags": [
-        "league",
-        "quebec",
-        "qc",
-        "francais",
-        "Français",
-        "leagueoflegends",
-        "girl",
-        "Vtuber",
-        "NACL",
-        "Competitive"
-      ],
-      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miirosca-640x360.jpg",
-      "startedAt": "2026-11-21T00:22:12Z"
-    },
-    {
-      "id": "321499802336",
-      "login": "lechatoo",
-      "name": "LechatOo",
-      "title": "૮₍ ˶˃ ᵕ ˂˶ ₎ა 🍓 Potato Cat 🥔💕 | WoW Forever ♾️ | Leveling & Chill 🌷✨ | Cozy Gaming 🐾1 Sub= Badge Alliance et Horde !",
-      "category": "World of Warcraft",
-      "categoryId": "18122",
-      "viewers": 11,
-      "language": "fr",
-      "tags": [
-        "vtuber",
-        "quebec",
-        "femme",
-        "Français",
-        "vtuberfr",
-        "ADHD",
-        "SupportMain",
-        "overwatch",
-        "marvelrivals",
-        "English"
-      ],
-      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lechatoo-640x360.jpg",
-      "startedAt": "2026-11-20T20:29:26Z"
-    },
-    {
-      "id": "318420711268",
-      "login": "puru_kirby",
-      "name": "puru_kirby",
-      "title": "🟣 𝔾𝕋𝔸 𝕍𝕀 | 🌴 VICE CITY NOUS ATTEND ! 🌴| !return !discord !warning",
-      "category": "Grand Theft Auto VI",
-      "categoryId": "1867279146",
-      "viewers": 9,
-      "language": "fr",
-      "tags": [
-        "vtuber",
-        "vtuberfr",
-        "anglais",
-        "Français",
-        "Découverte",
-        "Horror",
-        "PurtZu",
-        "GTA6",
-        "DropsActivés"
-      ],
-      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_puru_kirby-640x360.jpg",
-      "startedAt": "2026-11-20T21:41:29Z"
-    },
-    {
-      "id": "318417842147",
-      "login": "dydoutv_",
-      "name": "DydouTV_",
-      "title": "🌙JE FACEREVEAL SI JE TROUVE LE JETON ! | !discord !carrd !wn 🌙",
-      "category": "Fortnite",
-      "categoryId": "33214",
-      "viewers": 9,
-      "language": "fr",
-      "tags": [
-        "VtuberFR",
-        "Français",
-        "Vtuber",
-        "Découverte",
-        "PartiesAvecLesSpectateurs"
-      ],
-      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dydoutv_-640x360.jpg",
-      "startedAt": "2026-11-20T20:04:45Z"
-    },
-    {
-      "id": "321204103262",
-      "login": "infoxtv",
-      "name": "InfoxTV",
-      "title": "Absurdistan news votre bulletin d'information! !#vtuber #zarbi #docu #react, #politique #jeux #tdah",
-      "category": "Just Chatting",
-      "categoryId": "509658",
-      "viewers": 8,
-      "language": "fr",
-      "tags": [
-        "Qc",
-        "discussions",
-        "Français",
-        "podcast",
-        "Documentaires",
-        "Politique",
-        "Actualités",
-        "Vtuber",
-        "Jeuxvidéos"
-      ],
-      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_infoxtv-640x360.jpg",
-      "startedAt": "2026-11-20T21:51:51Z"
-    },
-    {
-      "id": "318418883556",
-      "login": "adelaladragonne",
-      "name": "AdelaLaDragonne",
-      "title": "[FR/EN/18+] OPÉRATION CHIRURGICALE - On opère un PLAYSTATION 1 pis on part su MARS ensuite TABARNAAAAAAAAAK !",
-      "category": "Occupy Mars: The Game",
-      "categoryId": "510193",
-      "viewers": 8,
-      "language": "fr",
-      "tags": [
-        "LGBTQAFriendly",
-        "18plus",
-        "Français",
-        "SafeSpace",
-        "KristoCarebearPresident",
-        "English",
-        "Vtuber",
-        "WiseKitsuneIsCUTE"
-      ],
-      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_adelaladragonne-640x360.jpg",
-      "startedAt": "2026-11-20T20:03:07Z"
-    },
-    {
-      "id": "318419271779",
-      "login": "agentyous",
-      "name": "AgentYous",
-      "title": "[VTuberFR] Un peu d'osu!- !prime !translate",
-      "category": "osu!",
-      "categoryId": "21465",
-      "viewers": 7,
-      "language": "fr",
-      "tags": [
-        "Français",
-        "AgentYous",
-        "VTUBER",
-        "VTuberFR",
-        "Rhythm",
-        "RhythmGames",
-        "Retro",
-        "Retroachievements"
-      ],
-      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_agentyous-640x360.jpg",
-      "startedAt": "2026-11-20T21:24:01Z"
-    },
-    {
-      "id": "318358308834",
-      "login": "im_kriz",
-      "name": "im_KRIZ",
-      "title": "🌴 Venez on parle | ❗discord ❗youtube",
-      "category": "Just Chatting",
-      "categoryId": "509658",
-      "viewers": 6,
-      "language": "fr",
-      "tags": [
-        "Français",
-        "jeuxvidéo",
-        "drôleenfinjecrois",
-        "gaming",
-        "pngtuber",
-        "PNGtuberFR"
-      ],
-      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_im_kriz-640x360.jpg",
-      "startedAt": "2026-11-20T17:20:00Z"
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gulliana_vt-640x360.jpg",
+      "startedAt": "2026-11-21T08:54:21Z"
     },
     {
       "id": "318421993188",
@@ -368,7 +94,7 @@
       "title": "Chapitre 2 GTA6 : La map est diiiingue  - !discord !rs",
       "category": "Grand Theft Auto VI",
       "categoryId": "1867279146",
-      "viewers": 6,
+      "viewers": 22,
       "language": "fr",
       "tags": [
         "Français",
@@ -385,391 +111,369 @@
       "startedAt": "2026-11-20T23:15:40Z"
     },
     {
-      "id": "318421927907",
-      "login": "aether_xw",
-      "name": "aether_xw",
-      "title": "[18+fr/eng] dbd |my wife is breaking ankles | !lurk !discord",
-      "category": "Dead by Daylight",
-      "categoryId": "491487",
-      "viewers": 6,
+      "id": "318424203363",
+      "login": "jpp_nas",
+      "name": "JPP_NAS",
+      "title": "⚔️ AIDE HOLO COMBAT MULTI SI NEED 🔥 | 🤝 Aides, Builds & Conseils | 🌸 CHILLANCE & BONNE HUMEUR 🦝 | #FractureMain !lootbar",
+      "category": "Aniimo",
+      "categoryId": "1267582829",
+      "viewers": 21,
       "language": "fr",
       "tags": [
-        "Français",
-        "anglais",
+        "english",
+        "vtuber",
         "vtuberfr",
-        "Vtuber",
-        "NightStreamer",
-        "chill",
-        "Rediffusion"
+        "français",
+        "DropsActivés",
+        "giveaway",
+        "jeyser",
+        "prismana",
+        "aniimo",
+        "animo"
       ],
-      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aether_xw-640x360.jpg",
-      "startedAt": "2026-11-21T00:57:03Z"
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jpp_nas-640x360.jpg",
+      "startedAt": "2026-11-21T10:07:32Z"
     },
     {
-      "id": "318421388516",
-      "login": "reallyley",
-      "name": "ReallyLey",
-      "title": "Temple de Gronoa",
-      "category": "Final Fantasy Resonance",
-      "categoryId": "1954784138",
-      "viewers": 6,
-      "language": "fr",
-      "tags": [
-        "Vtuber",
-        "chill",
-        "girl",
-        "Français",
-        "English",
-        "JRPG",
-        "FirstaPlayThrough",
-        "Reading",
-        "FinalFantasy",
-        "finalfantasyresonance"
-      ],
-      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_reallyley-640x360.jpg",
-      "startedAt": "2026-11-20T22:24:42Z"
-    },
-    {
-      "id": "321269946460",
-      "login": "zelfyros",
-      "name": "Zelfyros",
-      "title": "[FR/EN] Zelda OoT Remake, LET'S GO !!!",
-      "category": "The Legend of Zelda: Ocarina of Time",
-      "categoryId": "2067181260",
-      "viewers": 6,
-      "language": "fr",
-      "tags": [
-        "Québécois",
-        "Bilingual",
-        "English",
-        "Français",
-        "Vtuber"
-      ],
-      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zelfyros-640x360.jpg",
-      "startedAt": "2026-11-21T01:06:09Z"
-    },
-    {
-      "id": "318418439908",
-      "login": "fouinelogan",
-      "name": "fouinelogan",
-      "title": "18+ ( Vtuber fr ): Chill, Venez me voir , Gros évènement sur ma chaine pour fêter les 1 ans de Vtuber, il y aura 24h de live !!!",
-      "category": "Special Events",
-      "categoryId": "509663",
-      "viewers": 5,
+      "id": "318424533476",
+      "login": "lunyvee",
+      "name": "Lunyvee",
+      "title": "[VTUBERFR] LUNYTINAL !",
+      "category": "Just Chatting",
+      "categoryId": "509658",
+      "viewers": 18,
       "language": "fr",
       "tags": [
         "vtuber",
-        "vtuberfr",
-        "action",
-        "aventure",
+        "french",
         "Français",
-        "Rediffusion",
+        "vtuberfr",
+        "safeplace",
+        "deadlock",
         "DropsActivés"
       ],
-      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fouinelogan-640x360.jpg",
-      "startedAt": "2026-11-20T19:41:37Z"
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lunyvee-640x360.jpg",
+      "startedAt": "2026-11-21T09:15:09Z"
     },
     {
-      "id": "318353525090",
-      "login": "kyozoran",
-      "name": "KyoZoran",
-      "title": "Mais il est incroyable ce jeu en fait ?! (Découverte Jour2) On part en MultiJoueur",
-      "category": "HumanitZ",
-      "categoryId": "1023950301",
-      "viewers": 5,
-      "language": "fr",
-      "tags": [
-        "Français",
-        "Vtuber",
-        "TDAH",
-        "amical",
-        "Drop",
-        "bavard",
-        "EnglishOK",
-        "survival",
-        "zombie",
-        "noobstreamer"
-      ],
-      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kyozoran-640x360.jpg",
-      "startedAt": "2026-11-20T11:12:19Z"
-    },
-    {
-      "id": "318421483619",
-      "login": "niniwolfy",
-      "name": "NiniWolfy",
-      "title": "[VTuberFR] Premier stream, let's go !",
-      "category": "Cloverpit",
-      "categoryId": "1630435000",
-      "viewers": 5,
-      "language": "fr",
-      "tags": [
-        "vtuberfr",
-        "Elle",
-        "Transgender",
-        "chill",
-        "Français"
-      ],
-      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_niniwolfy-640x360.jpg",
-      "startedAt": "2026-11-21T00:08:26Z"
-    },
-    {
-      "id": "318358534882",
-      "login": "linuki_konlya",
-      "name": "Linuki_Konlya",
-      "title": "[Vtuber FR] A la recherche de la piece !",
-      "category": "Fortnite",
-      "categoryId": "33214",
-      "viewers": 4,
-      "language": "fr",
-      "tags": [
-        "vtubers",
-        "chill",
-        "Français",
-        "vocaloid",
-        "Zelda",
-        "ETS2",
-        "osu",
-        "vtuberfr",
-        "VFirstTry"
-      ],
-      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_linuki_konlya-640x360.jpg",
-      "startedAt": "2026-11-20T17:33:59Z"
-    },
-    {
-      "id": "321205684958",
-      "login": "wolfnationqc",
-      "name": "WolfNationQc",
-      "title": "C'est pas gta 6 mais on fait avec se qu'ont a...   !discord",
-      "category": "Grand Theft Auto V",
-      "categoryId": "32982",
-      "viewers": 4,
-      "language": "fr",
-      "tags": [
-        "Français",
-        "Vtuber",
-        "Québécois"
-      ],
-      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfnationqc-640x360.jpg",
-      "startedAt": "2026-11-20T22:58:43Z"
-    },
-    {
-      "id": "318364833122",
-      "login": "bananavenflambee",
-      "name": "BananavenFlambee",
-      "title": "jeu d'énigme horrifiant",
-      "category": "We Were Here Forever",
-      "categoryId": "428452832",
-      "viewers": 3,
-      "language": "fr",
-      "tags": [
-        "Submissive",
-        "pngtuber",
-        "PNGtuberFR",
-        "Zenyatta",
-        "TahmKench",
-        "Français",
-        "SafeSpace"
-      ],
-      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bananavenflambee-640x360.jpg",
-      "startedAt": "2026-11-20T23:55:26Z"
-    },
-    {
-      "id": "321209442910",
-      "login": "jeywithhoody",
-      "name": "JeyWithHoody",
-      "title": "QC/FR, 🌴 Un snowbird debarque a vice-city 🌴, !discord",
-      "category": "Grand Theft Auto VI",
-      "categoryId": "1867279146",
-      "viewers": 3,
-      "language": "fr",
-      "tags": [
-        "QcFr",
-        "Vtuber",
-        "Build",
-        "survival",
-        "Animation2D",
-        "Français",
-        "gamedev",
-        "Quebec",
-        "gta6",
-        "DropsActivés"
-      ],
-      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jeywithhoody-640x360.jpg",
-      "startedAt": "2026-11-21T01:27:32Z"
-    },
-    {
-      "id": "318357821538",
-      "login": "akira_neko_vt",
-      "name": "akira_neko_vt",
-      "title": "(+18) 24H et Subathon !!! | Rejoignez Daddy Cat | !clip !discord !OF",
-      "category": "I'm Only Sleeping",
-      "categoryId": "498592",
-      "viewers": 3,
-      "language": "fr",
-      "tags": [
-        "chat",
-        "miaou",
-        "vtuberfr",
-        "Neko",
-        "NekoVtuber",
-        "TDAH",
-        "FurryStreamer",
-        "SafeSpace",
-        "demon",
-        "NSFWchat"
-      ],
-      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akira_neko_vt-640x360.jpg",
-      "startedAt": "2026-11-20T16:50:21Z"
-    },
-    {
-      "id": "321266144604",
-      "login": "jin_heibai",
-      "name": "Jin_Heibai",
-      "title": "[Fr/En] VTUBER | Hunt Showdown avec des amis",
-      "category": "Hunt: Showdown 1896",
-      "categoryId": "500188",
-      "viewers": 3,
-      "language": "fr",
-      "tags": [
-        "Français",
-        "Vtuber",
-        "vtuberfr"
-      ],
-      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jin_heibai-640x360.jpg",
-      "startedAt": "2026-11-20T22:14:19Z"
-    },
-    {
-      "id": "321206447070",
-      "login": "neptunevermilion",
-      "name": "NeptuneVermilion",
-      "title": "✧Jasons✧ | !Discord !Huard !lurk !VQN",
-      "category": "Just Chatting",
-      "categoryId": "509658",
-      "viewers": 3,
-      "language": "fr",
-      "tags": [
-        "Quebec",
-        "Aventure",
-        "Vtuber",
-        "English",
-        "Billingue",
-        "vtuberfr",
-        "chill",
-        "memes",
-        "Français",
-        "DropsActivés"
-      ],
-      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_neptunevermilion-640x360.jpg",
-      "startedAt": "2026-11-20T23:29:17Z"
-    },
-    {
-      "id": "319487406182",
-      "login": "pokiipitch",
-      "name": "PokiiPitch",
-      "title": "Chill entre dev et play... J'ai trop de talents pour ce monde...",
-      "category": "Software and Game Development",
-      "categoryId": "1469308723",
-      "viewers": 3,
-      "language": "fr",
-      "tags": [
-        "Vtuber",
-        "Furry",
-        "robot",
-        "DigitalArt",
-        "Français",
-        "Tutorial",
-        "aide",
-        "vtuberfr",
-        "English"
-      ],
-      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pokiipitch-640x360.jpg",
-      "startedAt": "2026-11-20T18:47:33Z"
-    },
-    {
-      "id": "318417982051",
-      "login": "kemeikooo",
-      "name": "kemeikooo",
-      "title": "GOOOOO LE BAYOUUUUUU!!!",
-      "category": "Hunt: Showdown 1896",
-      "categoryId": "500188",
-      "viewers": 2,
+      "id": "316574642540",
+      "login": "adouline",
+      "name": "Adouline",
+      "title": "✨ 🌸SUPPORT on fait ce qu'on avec cqu'on a  !!!✨ 🌸 !discord 🎀",
+      "category": "Overwatch",
+      "categoryId": "515025",
+      "viewers": 13,
       "language": "fr",
       "tags": [
         "francais",
-        "Francąis",
-        "Vtuber",
+        "974",
+        "girl",
+        "DropsActivés",
+        "pngtuber",
+        "overwatch",
+        "ranked",
+        "bienveillance",
+        "support",
         "Français"
       ],
-      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kemeikooo-640x360.jpg",
-      "startedAt": "2026-11-20T20:12:07Z"
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_adouline-640x360.jpg",
+      "startedAt": "2026-11-21T08:20:47Z"
     },
     {
-      "id": "319492199782",
-      "login": "r_eeed",
-      "name": "r_eeed",
-      "title": "Qui craquera avant l'autre ?",
-      "category": "We Were Here Forever",
-      "categoryId": "428452832",
-      "viewers": 2,
+      "id": "318355887330",
+      "login": "aikamorii",
+      "name": "AikaMorii",
+      "title": "💀KMS-ATHON💀[DAY 42] MIMIR TIME | SOUFFRIR POUR VOTRE ARGENT MAIS YA PLUS DE GOAL CEST FINIS | !kmsathon",
+      "category": "I'm Only Sleeping",
+      "categoryId": "498592",
+      "viewers": 13,
       "language": "fr",
       "tags": [
-        "fun",
-        "chat",
-        "chill",
         "vtuber",
-        "discussion",
-        "safeplace",
-        "ranked",
-        "FR",
-        "Challenge",
-        "Français"
+        "Français",
+        "English",
+        "tanuki",
+        "horrrorgames",
+        "DropsActivés"
       ],
-      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_r_eeed-640x360.jpg",
-      "startedAt": "2026-11-20T23:51:08Z"
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aikamorii-640x360.jpg",
+      "startedAt": "2026-11-20T14:34:38Z"
     },
     {
-      "id": "318416521188",
-      "login": "lelexxou",
-      "name": "Lelexxou",
-      "title": "[+18 - Furry] On continue notre découverte de Leonida !",
-      "category": "Grand Theft Auto VI",
-      "categoryId": "1867279146",
-      "viewers": 2,
+      "id": "318424448484",
+      "login": "tehqui",
+      "name": "Tehqui",
+      "title": "Bientôt la fin du maraTombRaider...",
+      "category": "Shadow of the Tomb Raider",
+      "categoryId": "504735",
+      "viewers": 12,
+      "language": "fr",
+      "tags": [
+        "Vtuber",
+        "vtuberfr",
+        "Français",
+        "gameuse",
+        "gameusefr"
+      ],
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tehqui-640x360.jpg",
+      "startedAt": "2026-11-21T09:00:06Z"
+    },
+    {
+      "id": "318424411236",
+      "login": "ponylumen",
+      "name": "PonyLumen",
+      "title": "[18+] Godot time",
+      "category": "Software and Game Development",
+      "categoryId": "1469308723",
+      "viewers": 12,
       "language": "fr",
       "tags": [
         "Français",
         "Furry",
-        "Vtuber",
-        "Deuzear",
-        "novabeast",
-        "LGBTQFriendly",
-        "chill",
-        "SafeSpace",
-        "Curious",
-        "LGBTQPlus"
+        "Chıll",
+        "Vtuber"
       ],
-      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lelexxou-640x360.jpg",
-      "startedAt": "2026-11-20T17:41:55Z"
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ponylumen-640x360.jpg",
+      "startedAt": "2026-11-21T08:52:37Z"
     },
     {
-      "id": "318421898467",
-      "login": "kunavt_",
-      "name": "KunaVT_",
-      "title": "Le titre? j'ai pas d'idée",
-      "category": "Art",
-      "categoryId": "509660",
-      "viewers": 2,
+      "id": "318424434788",
+      "login": "byakirah",
+      "name": "ByakiraH",
+      "title": "[PC||Expert] Le Brunch Sucré Salé ! Ce rêve bleuuuuuuuuu ! || !rs !throne",
+      "category": "Final Fantasy Resonance",
+      "categoryId": "1954784138",
+      "viewers": 11,
+      "language": "fr",
+      "tags": [
+        "Vtuber",
+        "Fun",
+        "Français",
+        "English",
+        "DécouverteDuJeu"
+      ],
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byakirah-640x360.jpg",
+      "startedAt": "2026-11-21T08:57:13Z"
+    },
+    {
+      "id": "318366889826",
+      "login": "meliiie_",
+      "name": "Meliiie_",
+      "title": "🙌🏼 SILKSONG DAY [Acte 2 - #30] || Je participe au !VTAFR 2026 || !planning !commandes",
+      "category": "Hollow Knight: Silksong",
+      "categoryId": "511391",
+      "viewers": 10,
+      "language": "fr",
+      "tags": [
+        "VibesPositives",
+        "bonnehumeur",
+        "France",
+        "pngtuber",
+        "Français",
+        "slowrunner",
+        "Rediffusion"
+      ],
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meliiie_-640x360.jpg",
+      "startedAt": "2026-11-21T08:26:51Z"
+    },
+    {
+      "id": "318424421988",
+      "login": "skazy_gm",
+      "name": "Skazy_GM",
+      "title": "Matinal farming x2 pour mamie baby Skazy| !Guilde !Tiktok !+18 !lurk !clip",
+      "category": "Warframe",
+      "categoryId": "66170",
+      "viewers": 10,
+      "language": "fr",
+      "tags": [
+        "lore",
+        "vtubers",
+        "guilde",
+        "PEGI18",
+        "horreur",
+        "Vtuber",
+        "fr",
+        "Français",
+        "VTAFR",
+        "warframe"
+      ],
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skazy_gm-640x360.jpg",
+      "startedAt": "2026-11-21T08:55:06Z"
+    },
+    {
+      "id": "318424076388",
+      "login": "destrylthewolf",
+      "name": "DestrylTheWolf",
+      "title": "[D4/MID] HELLO BON MATIIIIN | !discord",
+      "category": "League of Legends",
+      "categoryId": "21779",
+      "viewers": 9,
+      "language": "fr",
+      "tags": [
+        "mid",
+        "diamond",
+        "Azir",
+        "Galio",
+        "Français",
+        "English",
+        "Furry",
+        "Vtuber",
+        "pigeon"
+      ],
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_destrylthewolf-640x360.jpg",
+      "startedAt": "2026-11-21T07:19:00Z"
+    },
+    {
+      "id": "318423743587",
+      "login": "aleknms",
+      "name": "aleknms",
+      "title": "Crimson Desert - 11ème épisode - La quête d'un soldat",
+      "category": "Crimson Desert",
+      "categoryId": "515186",
+      "viewers": 9,
+      "language": "fr",
+      "tags": [
+        "Vtuber",
+        "Gaming",
+        "Goodvibes",
+        "Bienveillance",
+        "Chill",
+        "Fun",
+        "Divertissement",
+        "Aventure",
+        "RPG",
+        "JRPG"
+      ],
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aleknms-640x360.jpg",
+      "startedAt": "2026-11-21T08:50:10Z"
+    },
+    {
+      "id": "318424179684",
+      "login": "kaorigemini",
+      "name": "kaorigemini",
+      "title": "🔴 DÉCOUVERTE WoW Forever Jour 12 SPECIAL LIVE 12H On fête les 500 follows !",
+      "category": "World of Warcraft",
+      "categoryId": "18122",
+      "viewers": 8,
       "language": "fr",
       "tags": [
         "Français",
-        "English",
-        "art",
         "Vtuber",
-        "vtuberfr",
+        "MMORPG",
+        "WorldfofWarcraft",
         "DropsActivés"
       ],
-      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kunavt_-640x360.jpg",
-      "startedAt": "2026-11-21T00:53:04Z"
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaorigemini-640x360.jpg",
+      "startedAt": "2026-11-21T07:53:42Z"
+    },
+    {
+      "id": "318424018532",
+      "login": "lucxacusfr",
+      "name": "LucxacusFR",
+      "title": "[FR][18+] Graouuu Lucxa enfin la / Quand le Rank up ??  :3 !discord",
+      "category": "VALORANT",
+      "categoryId": "516575",
+      "viewers": 8,
+      "language": "fr",
+      "tags": [
+        "Français",
+        "vtuberfr",
+        "goodevibes",
+        "gaming",
+        "friendlygamer",
+        "LGTBQFriendly",
+        "pngtuber"
+      ],
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lucxacusfr-640x360.jpg",
+      "startedAt": "2026-11-21T06:57:22Z"
+    },
+    {
+      "id": "318423426787",
+      "login": "shao_pix",
+      "name": "Shao_pix",
+      "title": "au programme Sora no de bergejerage ! | Solo | Steam | Kingdom Heart 2 | VtuberFR | Chill | Vtuber Awards | Perle caché",
+      "category": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
+      "categoryId": "494099",
+      "viewers": 8,
+      "language": "fr",
+      "tags": [
+        "Français",
+        "VTuber",
+        "Chill",
+        "Cozy",
+        "communauté",
+        "Aventure",
+        "Rétro",
+        "Relaxing",
+        "Matinal",
+        "VRChat"
+      ],
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shao_pix-640x360.jpg",
+      "startedAt": "2026-11-21T07:30:52Z"
+    },
+    {
+      "id": "318424529892",
+      "login": "madebybul",
+      "name": "madebybul",
+      "title": "𝓣𝓪𝓽𝓪𝓷𝓮 𝓮𝓷 𝓶𝓪𝓲𝓷, 𝓸𝓬𝓽𝓸𝓰𝓸𝓷𝓮 𝓵𝓮𝓼 𝓬𝓪𝓯𝓯𝓪𝓻𝓽𝓼 ! 𝓕𝓽. @0rcas_ @StarLadyTime | !𝓭𝓲𝓼𝓬𝓸𝓻𝓭 !𝓵𝓸𝓿𝓮",
+      "category": "Paranormal Cleanup",
+      "categoryId": "463659004",
+      "viewers": 7,
+      "language": "fr",
+      "tags": [
+        "french",
+        "Français",
+        "fun",
+        "goodvibes",
+        "safeplace",
+        "LGBTQFriendly",
+        "PNGtuberFR",
+        "batpngtuber"
+      ],
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_madebybul-640x360.jpg",
+      "startedAt": "2026-11-21T09:14:29Z"
+    },
+    {
+      "id": "318424044644",
+      "login": "kellynavt",
+      "name": "KellynaVT",
+      "title": "💜 💛[Mic Off +18  VtuberFR] Découverte et Let's Play de GTA 6 #4 ! pas de spoil pas de Backseat ! 💜 💛 | !lurk !réseaux !discord 💜 💛",
+      "category": "Grand Theft Auto VI",
+      "categoryId": "1867279146",
+      "viewers": 7,
+      "language": "fr",
+      "tags": [
+        "Français",
+        "Transgenre",
+        "Femme",
+        "ASMR",
+        "chill",
+        "Vtuber",
+        "vtuberfr",
+        "LGBT",
+        "LGBTQFriendly",
+        "Lesbienne"
+      ],
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kellynavt-640x360.jpg",
+      "startedAt": "2026-11-21T07:07:32Z"
+    },
+    {
+      "id": "318424194787",
+      "login": "zerosart",
+      "name": "ZerosArt",
+      "title": "[EN/FR] FanArt Genshin Ronova !insta !youtube",
+      "category": "Art",
+      "categoryId": "509660",
+      "viewers": 6,
+      "language": "fr",
+      "tags": [
+        "Français",
+        "Vtuber",
+        "English",
+        "DropsEnabled"
+      ],
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zerosart-640x360.jpg",
+      "startedAt": "2026-11-21T10:06:03Z"
     },
     {
       "id": "318361137506",
@@ -778,7 +482,7 @@
       "title": "🌸S4Gs' Streamathon🌸le debut du 48h !❗discord❗marker [FR/PC]",
       "category": "Special Events",
       "categoryId": "509663",
-      "viewers": 2,
+      "viewers": 5,
       "language": "fr",
       "tags": [
         "vtuber",
@@ -796,81 +500,508 @@
       "startedAt": "2026-11-20T20:09:35Z"
     },
     {
-      "id": "322337711193",
-      "login": "darkhaidenvtqc",
-      "name": "darkhaidenvtqc",
-      "title": "(QC,FR) Les Noobs    un peux de pew pew",
+      "id": "318423702499",
+      "login": "pikagohan",
+      "name": "PikaGohan",
+      "title": "On continue notre aventure sur GTA VI !!!",
+      "category": "Grand Theft Auto VI",
+      "categoryId": "1867279146",
+      "viewers": 5,
+      "language": "fr",
+      "tags": [
+        "Français",
+        "chill",
+        "horreur",
+        "rage",
+        "screamer",
+        "Découverte",
+        "vrchat",
+        "Vtuber",
+        "Rediffusion",
+        "NTEstream"
+      ],
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pikagohan-640x360.jpg",
+      "startedAt": "2026-11-21T08:41:28Z"
+    },
+    {
+      "id": "318423775843",
+      "login": "akemi_sakura_",
+      "name": "Akemi_Sakura_",
+      "title": "Un peu de mk8 deluxe pour changer !",
+      "category": "Mario Kart 8 Deluxe",
+      "categoryId": "941530474",
+      "viewers": 5,
+      "language": "fr",
+      "tags": [
+        "pngtuber",
+        "français",
+        "english",
+        "newbie",
+        "chill",
+        "lgbt",
+        "bi",
+        "Français"
+      ],
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akemi_sakura_-640x360.jpg",
+      "startedAt": "2026-11-21T08:56:03Z"
+    },
+    {
+      "id": "318357821538",
+      "login": "akira_neko_vt",
+      "name": "akira_neko_vt",
+      "title": "(+18) STREAM 24H, JOUR 2 !!! | Rejoignez Daddy Cat | !clip !discord !OF",
+      "category": "Just Chatting",
+      "categoryId": "509658",
+      "viewers": 5,
+      "language": "fr",
+      "tags": [
+        "chat",
+        "miaou",
+        "vtuberfr",
+        "Neko",
+        "NekoVtuber",
+        "TDAH",
+        "FurryStreamer",
+        "SafeSpace",
+        "demon",
+        "NSFWchat"
+      ],
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_akira_neko_vt-640x360.jpg",
+      "startedAt": "2026-11-20T16:50:21Z"
+    },
+    {
+      "id": "318424349924",
+      "login": "chikahiwo",
+      "name": "Chikahiwo",
+      "title": "[FR/EN] La matinale du matin",
+      "category": "League of Legends",
+      "categoryId": "21779",
+      "viewers": 5,
+      "language": "fr",
+      "tags": [
+        "Français",
+        "Vtuber",
+        "Vtuberfr",
+        "Chill",
+        "Safespace",
+        "Aigris",
+        "VPtasse",
+        "aigri"
+      ],
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_chikahiwo-640x360.jpg",
+      "startedAt": "2026-11-21T08:39:28Z"
+    },
+    {
+      "id": "318424327524",
+      "login": "saitilink",
+      "name": "Saitilink",
+      "title": "[FR/EN] Short Stream | GTA 6 ? Connait pas, go dbd",
+      "category": "Dead by Daylight",
+      "categoryId": "491487",
+      "viewers": 4,
+      "language": "fr",
+      "tags": [
+        "chill",
+        "Francais",
+        "English",
+        "pngtuber",
+        "pngtuberFR",
+        "Wesker",
+        "pngtuberen",
+        "Français",
+        "FRVMon",
+        "Rediffusion"
+      ],
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_saitilink-640x360.jpg",
+      "startedAt": "2026-11-21T08:34:26Z"
+    },
+    {
+      "id": "318424031971",
+      "login": "lollym122a",
+      "name": "lollym122a",
+      "title": "On continue GTA VI viendre rigolationner avec nous @drghosts592a",
+      "category": "Grand Theft Auto VI",
+      "categoryId": "1867279146",
+      "viewers": 4,
+      "language": "fr",
+      "tags": [
+        "Français",
+        "Vtuber",
+        "musique",
+        "GamesViewers",
+        "Femme",
+        "DetenteRigolade",
+        "BienveillanceMax",
+        "Neurodivergente",
+        "neurodivergentgamer",
+        "DropsActivés"
+      ],
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lollym122a-640x360.jpg",
+      "startedAt": "2026-11-21T09:40:52Z"
+    },
+    {
+      "id": "318366831970",
+      "login": "gartouff",
+      "name": "Gartouff",
+      "title": "Psyker, Auric, VoidStrike  !discord",
+      "category": "Warhammer 40,000: Darktide",
+      "categoryId": "518873",
+      "viewers": 3,
+      "language": "fr",
+      "tags": [
+        "chaos",
+        "Français",
+        "40k",
+        "NoBackseating",
+        "vtuberfr",
+        "vtuber",
+        "gaming"
+      ],
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gartouff-640x360.jpg",
+      "startedAt": "2026-11-21T08:12:06Z"
+    },
+    {
+      "id": "318367062882",
+      "login": "thefoxberserker",
+      "name": "thefoxberserker",
+      "title": "🦊+ 18 🦊on repart  sauvé la galaxie avec mon frere lombax",
+      "category": "Ratchet & Clank: Going Commando",
+      "categoryId": "4230",
+      "viewers": 3,
+      "language": "fr",
+      "tags": [
+        "Français",
+        "Vtuber",
+        "vtuberfr",
+        "FoxTuber",
+        "Fox",
+        "18pluschannel"
+      ],
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thefoxberserker-640x360.jpg",
+      "startedAt": "2026-11-21T09:04:52Z"
+    },
+    {
+      "id": "318367152994",
+      "login": "miinalya",
+      "name": "Miinalya",
+      "title": "🐸 (FR/GIRL) |🌸Exploration, combats et petites catastrophes !🐸",
+      "category": "Where Winds Meet",
+      "categoryId": "1630982727",
+      "viewers": 3,
+      "language": "fr",
+      "tags": [
+        "Français",
+        "girl",
+        "goodvibes",
+        "Vtuber",
+        "Fortnite",
+        "DropsActivés"
+      ],
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_miinalya-640x360.jpg",
+      "startedAt": "2026-11-21T09:19:48Z"
+    },
+    {
+      "id": "319305425127",
+      "login": "kenodoxia__",
+      "name": "Kenodoxia__",
+      "title": "Matinale | Bon weekend les mouettes~ [FR/+18] !Kofi !discord !vta",
+      "category": "Art",
+      "categoryId": "509660",
+      "viewers": 3,
+      "language": "fr",
+      "tags": [
+        "Français",
+        "chill",
+        "girl",
+        "artist",
+        "summer",
+        "aigri",
+        "goodevibes",
+        "Vtuber",
+        "gaming",
+        "discusison"
+      ],
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kenodoxia__-640x360.jpg",
+      "startedAt": "2026-11-21T08:51:02Z"
+    },
+    {
+      "id": "318367428962",
+      "login": "senecent_",
+      "name": "senecent_",
+      "title": "TFT   SET 19 PBE debut de test",
+      "category": "Teamfight Tactics",
+      "categoryId": "513143",
+      "viewers": 2,
+      "language": "fr",
+      "tags": [
+        "TFT",
+        "Ｖｔｕｂｅｒ",
+        "Français",
+        "tftteamfighttactics",
+        "vtuberfr"
+      ],
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_senecent_-640x360.jpg",
+      "startedAt": "2026-11-21T09:59:21Z"
+    },
+    {
+      "id": "318423414115",
+      "login": "decayofzirconium",
+      "name": "DecayOfZirconium",
+      "title": "[VtuberFR] - pas de carpette, pas de marche nordique, bref matin nul",
+      "category": "Music",
+      "categoryId": "26936",
+      "viewers": 2,
+      "language": "fr",
+      "tags": [
+        "Français",
+        "chill",
+        "flemme",
+        "vtuberfr",
+        "DropsActivés"
+      ],
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_decayofzirconium-640x360.jpg",
+      "startedAt": "2026-11-21T07:26:17Z"
+    },
+    {
+      "id": "319494953446",
+      "login": "jean_michel_jeuvideal",
+      "name": "jean_michel_jeuvideal",
+      "title": "Le grand Lac",
+      "category": "Timberborn",
+      "categoryId": "514891",
+      "viewers": 2,
+      "language": "fr",
+      "tags": [
+        "Français",
+        "Timberborn",
+        "pngtuber"
+      ],
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jean_michel_jeuvideal-640x360.jpg",
+      "startedAt": "2026-11-21T09:12:33Z"
+    },
+    {
+      "id": "318424526948",
+      "login": "maxis3ns",
+      "name": "maxis3ns",
+      "title": "⭐Alors, j'ai trop sous-estimé le Valstrax, faisons de petites quêtes !! [VTuber FR]⭐!discord (12h de stream !!!!)",
+      "category": "Monster Hunter Generations Ultimate",
+      "categoryId": "494141",
+      "viewers": 2,
+      "language": "fr",
+      "tags": [
+        "Français",
+        "pngtuber",
+        "art",
+        "Dessin",
+        "monsterhunter",
+        "multigaming",
+        "vtuberfr"
+      ],
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maxis3ns-640x360.jpg",
+      "startedAt": "2026-11-21T09:13:44Z"
+    },
+    {
+      "id": "318423856868",
+      "login": "mr_keisuke",
+      "name": "Mr_Keisuke",
+      "title": "[FR/PC]🖤👹⛩️ La renaissance n'était que le début… Place au chaos ! 🩸 | GTA VI — JOUR 2 🔥!Discord !Ronin's #RassoRonin's",
+      "category": "Grand Theft Auto VI",
+      "categoryId": "1867279146",
+      "viewers": 2,
+      "language": "fr",
+      "tags": [
+        "Français",
+        "VTuber",
+        "GTA6",
+        "Découverte",
+        "Jour1",
+        "ViceCity",
+        "OpenWorld",
+        "StoryMode",
+        "OniRonin",
+        "English"
+      ],
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mr_keisuke-640x360.jpg",
+      "startedAt": "2026-11-21T05:48:33Z"
+    },
+    {
+      "id": "318424082659",
+      "login": "seiolu",
+      "name": "SeiOlu",
+      "title": "🧵🧶ARTISANAT | Club du fil avec @Les_Ateliers_de_Seyana",
+      "category": "Makers & Crafting",
+      "categoryId": "509673",
+      "viewers": 2,
+      "language": "fr",
+      "tags": [
+        "AutisticSteamer",
+        "SafeSpace",
+        "Chatty",
+        "pngtuber",
+        "fr",
+        "EN",
+        "Français",
+        "LaCaverneDeLaGirafe",
+        "préparernoel",
+        "Rediffusion"
+      ],
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_seiolu-640x360.jpg",
+      "startedAt": "2026-11-21T09:49:52Z"
+    },
+    {
+      "id": "318366871906",
+      "login": "kamicie",
+      "name": "KamiCie",
+      "title": "[𝗩𝘁𝘂𝗯𝗲𝗿 𝗙𝗿/𝗘𝗻]𝐎𝐧 𝐜𝐨𝐧𝐭𝐢𝐧𝐮𝐞 𝐃𝐚𝐰𝐧𝐭𝐫𝐚𝐢𝐥 !!",
+      "category": "FINAL FANTASY XIV ONLINE",
+      "categoryId": "24241",
+      "viewers": 2,
+      "language": "fr",
+      "tags": [
+        "vtuberfr",
+        "safeplace",
+        "vtuber",
+        "Français",
+        "LGBTQFriendly",
+        "EnglishFriendly",
+        "Gacha",
+        "fun"
+      ],
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kamicie-640x360.jpg",
+      "startedAt": "2026-11-21T08:22:40Z"
+    },
+    {
+      "id": "318424394084",
+      "login": "roxi60",
+      "name": "roxi60",
+      "title": "Jour 12 / War prot WoW Forever",
+      "category": "World of Warcraft",
+      "categoryId": "18122",
+      "viewers": 2,
+      "language": "fr",
+      "tags": [
+        "Français",
+        "MMORPG",
+        "SorakaMain",
+        "RPG",
+        "Vtuber",
+        "MahjongSoul",
+        "Découverte",
+        "PvE",
+        "DropsActivés"
+      ],
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roxi60-640x360.jpg",
+      "startedAt": "2026-11-21T08:48:54Z"
+    },
+    {
+      "id": "318424404964",
+      "login": "solunie475",
+      "name": "Solunie475",
+      "title": "On fait plaisir aux divinités (ces gros radins la)",
+      "category": "Hades",
+      "categoryId": "510590",
+      "viewers": 1,
+      "language": "fr",
+      "tags": [
+        "gaming",
+        "LGBTQIAPIus",
+        "Français",
+        "NeuroA",
+        "femme",
+        "Vtuber",
+        "Metroidvania",
+        "Roguelite",
+        "vtuberfr"
+      ],
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_solunie475-640x360.jpg",
+      "startedAt": "2026-11-21T08:50:56Z"
+    },
+    {
+      "id": "318367264098",
+      "login": "lil_lappy_2077",
+      "name": "lil_Lappy_2077",
+      "title": "[FR/🔞] Défis lvl 15 all supports !!!!!!",
       "category": "Overwatch",
       "categoryId": "515025",
       "viewers": 1,
       "language": "fr",
       "tags": [
         "Français",
+        "fr",
+        "LGBT",
+        "pngtuber",
+        "safeplace",
+        "chill",
+        "fun",
         "Vtuber",
-        "QcFr",
+        "majeur",
         "DropsActivés"
       ],
-      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_darkhaidenvtqc-640x360.jpg",
-      "startedAt": "2026-11-21T00:54:56Z"
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lil_lappy_2077-640x360.jpg",
+      "startedAt": "2026-11-21T09:35:53Z"
     },
     {
-      "id": "321504502880",
-      "login": "arihelle",
-      "name": "Arihelle",
-      "title": "[QC/FR] Toujours en vie ...!! On continue le jeu ..!! [33h] !sons !claw !spawn",
-      "category": "V Rising",
-      "categoryId": "766548668",
+      "id": "319422068197",
+      "login": "yamiyotsukiyo",
+      "name": "YamiyoTsukiyo",
+      "title": "[FR][PS5] 🪽 Trails in the Sky SC – Une promesse au-delà des frontières 🌸✨",
+      "category": "Trails in the Sky 2nd Chapter",
+      "categoryId": "1705604455",
       "viewers": 1,
       "language": "fr",
       "tags": [
-        "Metal",
-        "Quebec",
-        "Vtuber",
-        "IRL",
-        "Francais",
-        "Art",
-        "Français"
-      ],
-      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_arihelle-640x360.jpg",
-      "startedAt": "2026-11-21T00:27:45Z"
-    },
-    {
-      "id": "319298515303",
-      "login": "mylotvv",
-      "name": "MyloTVv",
-      "title": "J'avais envie de Stream / Voter Mylo au VTuber Awards / !discord !throne",
-      "category": "VALORANT",
-      "categoryId": "516575",
-      "viewers": 1,
-      "language": "fr",
-      "tags": [
-        "Vtuber",
-        "LGBTQFriendly",
-        "LGBT",
-        "Français"
-      ],
-      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mylotvv-640x360.jpg",
-      "startedAt": "2026-11-20T20:05:07Z"
-    },
-    {
-      "id": "322334800729",
-      "login": "vaanbel_",
-      "name": "Vaanbel_",
-      "title": "[Ocarina of Time] Prochain temple?",
-      "category": "The Legend of Zelda: Ocarina of Time",
-      "categoryId": "2067181260",
-      "viewers": 1,
-      "language": "fr",
-      "tags": [
-        "Nouvellestreameuse",
         "Français",
-        "English",
-        "pngtuber",
-        "chill",
-        "Québec"
+        "Vtuber",
+        "ｖtuber",
+        "Ｖｔｕｂｅｒ"
       ],
-      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vaanbel_-640x360.jpg",
-      "startedAt": "2026-11-20T22:29:14Z"
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yamiyotsukiyo-640x360.jpg",
+      "startedAt": "2026-11-21T08:21:09Z"
+    },
+    {
+      "id": "318367445858",
+      "login": "rina_vocemod",
+      "name": "rina_vocemod",
+      "title": "(Vtuber FR)  week-end donjon",
+      "category": "Darkest Dungeon",
+      "categoryId": "458353",
+      "viewers": 1,
+      "language": "fr",
+      "tags": [
+        "vtuberfr",
+        "yapping",
+        "Vtuber",
+        "renard",
+        "Français",
+        "Rediffusion",
+        "Kitsune",
+        "VTAFR"
+      ],
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rina_vocemod-640x360.jpg",
+      "startedAt": "2026-11-21T10:01:50Z"
+    },
+    {
+      "id": "318366990306",
+      "login": "alucard_cosplay",
+      "name": "Alucard_Cosplay",
+      "title": "[ FR | VTUBER ] Billet direction Vice CityI  | !discord",
+      "category": "Grand Theft Auto VI",
+      "categoryId": "1867279146",
+      "viewers": 1,
+      "language": "fr",
+      "tags": [
+        "Français",
+        "french",
+        "vroid",
+        "Vtuber",
+        "vtuberfr",
+        "vtube",
+        "VTuberFrance",
+        "gamingfr",
+        "DropsActivés"
+      ],
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alucard_cosplay-640x360.jpg",
+      "startedAt": "2026-11-21T08:51:03Z"
     },
     {
       "id": "319291362663",
@@ -889,67 +1020,192 @@
       "startedAt": "2026-11-20T13:07:42Z"
     },
     {
-      "id": "321209246174",
-      "login": "djscyllafyre",
-      "name": "DjScyllaFyre",
-      "title": "(Qc,Fr)(Vtuber) Je vais commencer à ouvrir ma boutique d'objets avec des boîtes mystères, donc je ne saurai jamais quel objet je vais vendre",
-      "category": "Returns Outlet Simulator",
-      "categoryId": "1609205189",
+      "id": "318367096930",
+      "login": "hackumaotk",
+      "name": "hackumaotk",
+      "title": "Direction Vice City ! On découvre GTA 6 ensemble !",
+      "category": "Grand Theft Auto VI",
+      "categoryId": "1867279146",
       "viewers": 1,
       "language": "fr",
       "tags": [
-        "VTuberQC",
-        "VTuber",
-        "Français",
-        "Québec",
-        "Randomiser",
-        "Retro",
-        "pokemon"
+        "gta6",
+        "letsplay",
+        "vtuber",
+        "pngtuber",
+        "fr",
+        "Français"
       ],
-      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_djscyllafyre-640x360.jpg",
-      "startedAt": "2026-11-21T01:20:29Z"
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hackumaotk-640x360.jpg",
+      "startedAt": "2026-11-21T09:10:23Z"
     },
     {
-      "id": "319299387495",
-      "login": "sakuragamefr",
-      "name": "SakuraGameFR",
-      "title": "🟣 Sakura Ecchiya en live",
-      "category": "TERA",
-      "categoryId": "26476",
+      "id": "318423844323",
+      "login": "elnino_",
+      "name": "elnino_",
+      "title": "Working on my indie-game art // Gauntale Devlog",
+      "category": "Art",
+      "categoryId": "509660",
       "viewers": 1,
       "language": "fr",
       "tags": [
-        "vrchat",
         "Français",
-        "Vtuber",
-        "vtuberfr",
-        "VR",
-        "VRC",
-        "game",
-        "jeuxvidéo"
-      ],
-      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sakuragamefr-640x360.jpg",
-      "startedAt": "2026-11-20T20:48:05Z"
-    },
-    {
-      "id": "318421842404",
-      "login": "hikari_nishikino",
-      "name": "Hikari_Nishikino",
-      "title": "Vtuber Kitsune :  J-1 avant le redebut elden en randomiser avec flow !",
-      "category": "ELDEN RING",
-      "categoryId": "512953",
-      "viewers": 1,
-      "language": "fr",
-      "tags": [
-        "Vtuber",
-        "PartiesAvecLesSpectateurs",
-        "PartieTranquille",
-        "Français",
-        "Kitsune",
+        "pngtuber",
+        "Rediffusion",
+        "LevelDesign",
+        "development",
+        "PixelArt",
         "DropsActivés"
       ],
-      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hikari_nishikino-640x360.jpg",
-      "startedAt": "2026-11-20T23:01:19Z"
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elnino_-640x360.jpg",
+      "startedAt": "2026-11-21T09:09:12Z"
+    },
+    {
+      "id": "318424038115",
+      "login": "wolforatv",
+      "name": "WolforaTV",
+      "title": "Tales of arise",
+      "category": "Tales of Arise",
+      "categoryId": "512957",
+      "viewers": 1,
+      "language": "fr",
+      "tags": [
+        "Français",
+        "Détente",
+        "multigaming",
+        "TrophyHunter",
+        "vtuberfr",
+        "Vtuber",
+        "PEGI18"
+      ],
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolforatv-640x360.jpg",
+      "startedAt": "2026-11-21T09:42:08Z"
+    },
+    {
+      "id": "318423981668",
+      "login": "felissdrakkhen",
+      "name": "Felissdrakkhen",
+      "title": "retour dans les montagnes",
+      "category": "Enshrouded",
+      "categoryId": "737987407",
+      "viewers": 1,
+      "language": "fr",
+      "tags": [
+        "fr",
+        "french",
+        "Furry",
+        "Français",
+        "Vtuber",
+        "gaming",
+        "Rediffusion"
+      ],
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_felissdrakkhen-640x360.jpg",
+      "startedAt": "2026-11-21T06:42:41Z"
+    },
+    {
+      "id": "318424389092",
+      "login": "lolo_orsu",
+      "name": "Lolo_Orsu",
+      "title": "🐻 Construction de la base",
+      "category": "Enshrouded",
+      "categoryId": "737987407",
+      "viewers": 1,
+      "language": "fr",
+      "tags": [
+        "Vtuber",
+        "Français",
+        "Chıll",
+        "cosy",
+        "solo",
+        "survie",
+        "aventure",
+        "Exploration",
+        "Ours"
+      ],
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lolo_orsu-640x360.jpg",
+      "startedAt": "2026-11-21T08:48:17Z"
+    },
+    {
+      "id": "318424155363",
+      "login": "zephyravttv",
+      "name": "zephyravttv",
+      "title": "je débarque !!!",
+      "category": "Grand Theft Auto VI",
+      "categoryId": "1867279146",
+      "viewers": 1,
+      "language": "fr",
+      "tags": [
+        "chill",
+        "Française",
+        "vtuber",
+        "jeu",
+        "Français",
+        "DropsActivés"
+      ],
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zephyravttv-640x360.jpg",
+      "startedAt": "2026-11-21T10:00:49Z"
+    },
+    {
+      "id": "318424652004",
+      "login": "ezko_bar",
+      "name": "Ezko_Bar",
+      "title": "[FR] WoW Forever ! Le bar ouvre  : Démoniste Horde , on continue le grind pour le level 60 ! On prend le level 50 + ce weekend letsgooooo",
+      "category": "World of Warcraft",
+      "categoryId": "18122",
+      "viewers": 1,
+      "language": "fr",
+      "tags": [
+        "Chill",
+        "Français",
+        "WoWForever",
+        "Vanilla",
+        "Leveling",
+        "Horde",
+        "PvP",
+        "Démoniste",
+        "Warlock",
+        "PNGTuber"
+      ],
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ezko_bar-640x360.jpg",
+      "startedAt": "2026-11-21T09:36:17Z"
+    },
+    {
+      "id": "318424450404",
+      "login": "klashime",
+      "name": "klashime",
+      "title": "[FR] on rattrape le retard [VTB]",
+      "category": "Genshin Impact",
+      "categoryId": "513181",
+      "viewers": 1,
+      "language": "fr",
+      "tags": [
+        "Français",
+        "vtuberfr",
+        "fun",
+        "DropsActivés"
+      ],
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_klashime-640x360.jpg",
+      "startedAt": "2026-11-21T09:00:22Z"
+    },
+    {
+      "id": "318423654371",
+      "login": "oktavia_chantelame",
+      "name": "oktavia_chantelame",
+      "title": "Un peu de farm de bon matin ! !clip !saut !lurk",
+      "category": "World of Warcraft",
+      "categoryId": "18122",
+      "viewers": 1,
+      "language": "fr",
+      "tags": [
+        "vtuberfr",
+        "vtuber",
+        "safeplace",
+        "français",
+        "Français",
+        "DropsActivés"
+      ],
+      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_oktavia_chantelame-640x360.jpg",
+      "startedAt": "2026-11-21T08:30:12Z"
     },
     {
       "id": "318362715746",
@@ -972,221 +1228,17 @@
       ],
       "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_reoshinki-640x360.jpg",
       "startedAt": "2026-11-20T21:36:40Z"
-    },
-    {
-      "id": "319491970790",
-      "login": "alpha_derelic",
-      "name": "Alpha_Derelic",
-      "title": "(FR/EN)18+ BAZR",
-      "category": "Super Mario 64",
-      "categoryId": "2692",
-      "viewers": 1,
-      "language": "fr",
-      "tags": [
-        "English",
-        "Français",
-        "Suisse",
-        "PNGtuberFR",
-        "Loup",
-        "Furry"
-      ],
-      "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_alpha_derelic-640x360.jpg",
-      "startedAt": "2026-11-20T23:24:04Z"
     }
   ],
   "spotlightStreams": [],
   "users": {
-    "dydoutv_": {
-      "id": "441899983",
-      "login": "dydoutv_",
-      "displayName": "DydouTV_",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1694ea56-90e0-43cc-bf49-f88e281acdab-profile_image-300x300.png",
-      "description": "🌙Hey ! Je m'appelle Dydou votre pourfendeur légendaire ! Venez me suivre dans mes aventures !🌙",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/bed3a0ee-a3bd-4d89-90ea-1b387ada9031-channel_offline_image-1920x1080.png"
-    },
-    "aether_xw": {
-      "id": "914638006",
-      "login": "aether_xw",
-      "displayName": "aether_xw",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c3d8ffd0-7854-4f3c-ab3a-fc4fe6c78be4-profile_image-300x300.jpeg",
-      "description": "https://discord.gg/sfxs8Z8Bcg ",
-      "offlineImage": ""
-    },
-    "yodhab": {
-      "id": "464143806",
-      "login": "yodhab",
-      "displayName": "YodHab",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3351003-6b60-446c-94c6-bec40c04a039-profile_image-300x300.png",
-      "description": "Votre Streamer Vtubeur du tonnerre !!! On vise encore plus loin, toujours plus haut, toujours plus fort !!! Rejoins la communauté Lightning !!!",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/75382b63-55ec-4561-bc90-c1c4ad4e9590-channel_offline_image-1920x1080.png"
-    },
-    "djscyllafyre": {
-      "id": "64110436",
-      "login": "djscyllafyre",
-      "displayName": "DjScyllaFyre",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/djscyllafyre-profile_image-b6199c769d870558-300x300.jpeg",
-      "description": "Bonjour, à tous, je m'appelle DjScyllaFyre, je suis un homme qui va vous divertir de toute sorte de manière , je suis un Dj diplômée sous le nom (DjMaxFyre) qui compose ses musiques, je suis une personne vraie et honnête,je suis un Vtuber Québécois",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/3f4c5d79-ee36-4239-9d34-9f7082d6cfd7-channel_offline_image-1920x1080.png"
-    },
-    "sakuragamefr": {
-      "id": "95666402",
-      "login": "sakuragamefr",
-      "displayName": "SakuraGameFR",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/7e64865d-7a3f-4316-9bf2-f1016e257974-profile_image-300x300.png",
-      "description": "🟠 VRChat : https://hello.vrchat.com 🔵 OLD SCHOOL TERA ONLINE : https://oldschool.to",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/1d35f20f-94f1-4143-8f9e-7bbac536d8f5-channel_offline_image-1920x1080.jpeg"
-    },
-    "oni_kaellra": {
-      "id": "1062334142",
-      "login": "oni_kaellra",
-      "displayName": "Oni_Kaellra",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/765f8669-8582-467c-a5c4-d62282a50397-profile_image-300x300.png",
-      "description": "Entre l’eau, la peur et la douceur, Oni’Kaëllra se reconstruit pas à pas. Streamer est pour elle un refuge, un souffle qui recolle doucement ce qui a été brisé. Dans sa douceur se cachent des cicatrices… et un besoin d’être simplement là. 📩 Mail pro: oni_kaellra@outlook.fr",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/2b8a4d26-9523-4210-bbdf-658e18993bdc-channel_offline_image-1920x1080.jpeg"
-    },
-    "kyozoran": {
-      "id": "203702969",
-      "login": "kyozoran",
-      "displayName": "KyoZoran",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/61fa6090-e717-4942-8af2-ef4202460434-profile_image-300x300.png",
-      "description": "Salut ! Je me lance sur Twitch pour partager mes sessions de jeu et surtout pour briser la routine et la solitude en bonne compagnie. ☕Touche-à-tout, je joue pour le plaisir et l'échange. Ici, l'humain prime sur le skill : on discute de tout sans prise de tête. Pose-toi, on est ensemble ! 🤜🏽🤛",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/797b771a-0254-4375-99d3-1f0fdd9934e4-channel_offline_image-1920x1080.png"
-    },
-    "wolfnationqc": {
-      "id": "633338959",
-      "login": "wolfnationqc",
-      "displayName": "WolfNationQc",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/61602b4a-96e0-402a-8727-06873e75459c-profile_image-300x300.png",
-      "description": "hey hey hey ",
-      "offlineImage": ""
-    },
-    "bananavenflambee": {
-      "id": "195551316",
-      "login": "bananavenflambee",
-      "displayName": "BananavenFlambee",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/6919197c-f0e4-4d9c-9db9-0b863ba5738d-profile_image-300x300.png",
-      "description": "Die Geschichte wiederholt sich 🦍🍝👍",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/8c00ea24-7e1c-439d-8247-54f8d83e2f11-channel_offline_image-1920x1080.png"
-    },
-    "akira_neko_vt": {
-      "id": "1372386710",
-      "login": "akira_neko_vt",
-      "displayName": "akira_neko_vt",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e8439be1-1394-4611-b735-3778a7880f0e-profile_image-300x300.png",
-      "description": "Le VTuber Daddy Cat le plus chaotique que vous pourrez voir ! N'hésitez pas à me donner de la force !",
-      "offlineImage": ""
-    },
-    "dreamia": {
-      "id": "78215421",
-      "login": "dreamia",
-      "displayName": "Dreamia",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/2be5e470-1f99-4df8-9711-5dc56b1ae78b-profile_image-300x300.png",
-      "description": "🌸 Mmmmmmmh... Booonsoiiiir les fiiillleees~ ✨ Ici la Vtubeuse la plus fraiche de ta région ! 🔥 Viens suivre mes lives chaotiques de type tunnel intankable ✨ Bisouuuuiillees~ 🩷",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/37607f93-d2a9-42cc-b87b-ea02953a5775-channel_offline_image-1920x1080.png"
-    },
-    "lulunetv": {
-      "id": "190564890",
-      "login": "lulunetv",
-      "displayName": "LuluneTV",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/2c914dd4-a259-43e8-9b7b-63fb18e017db-profile_image-300x300.png",
-      "description": "💜 Virtual Streamer 👾 RPG Specialist 😈 Purple Waifu 💌 lulunetv@gmail.com ",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/3a897374-3942-4c02-835c-f3ed8cf71542-channel_offline_image-1920x1080.png"
-    },
-    "puru_kirby": {
-      "id": "58313007",
-      "login": "puru_kirby",
-      "displayName": "puru_kirby",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b603f48b-04bf-4afb-881c-6227b197d55f-profile_image-300x300.png",
-      "description": "Streamer depuis mai 2022, j'explore sans limite : du RPG au survival-horreur, chaque univers a sa place. Mais mon cœur appartient à Resident Evil, là où l’horreur et l’adrénaline se rencontrent ✨ 🐰 Actuellement : 𝔾𝕋𝔸 𝕍𝕀 💜",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/62e9809f-ce03-46af-b23f-cad3c7f48521-channel_offline_image-1920x1080.png"
-    },
-    "agentyous": {
-      "id": "55848447",
-      "login": "agentyous",
-      "displayName": "AgentYous",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/934caaac-d3b8-4a10-a639-c8465865de19-profile_image-300x300.png",
-      "description": "Une personne qui aime jouer et faire découvrir des jeux rétro, qui s'adonne parfois a faire des challenges et des succès pour divertir, et est particulièrement présent sur osu! Overlay by Kaleesy Pura, VTuber by Leti",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/4e6a0fe8-8c87-4191-9b07-c0a4ab2660bc-channel_offline_image-1920x1080.png"
-    },
-    "niniwolfy": {
-      "id": "1556373369",
-      "login": "niniwolfy",
-      "displayName": "NiniWolfy",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/20cebca7-61d7-4798-9324-376831034057-profile_image-300x300.png",
-      "description": "🐺 Naomie, femme transgenre et streameuse française ! 💜 Sous le nom de NiniWofy, je suis une louve VTuber passionnée de MMORPG et de jeux vidéo. Je stream au feeling, sans prise de tête, dans la bonne humeur et la convivialité ! 🐾",
-      "offlineImage": ""
-    },
-    "jin_heibai": {
-      "id": "248606914",
-      "login": "jin_heibai",
-      "displayName": "Jin_Heibai",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcead6ba-8ff0-4ecf-a000-0878c0a61992-profile_image-300x300.png",
-      "description": "🎮 Je joue à ce que j’ai envie, pas de jeu précis💬 Sinon je chill et je parle avec mes amis👋 Passe dire bonjour",
-      "offlineImage": ""
-    },
-    "kemeikooo": {
-      "id": "498305918",
-      "login": "kemeikooo",
-      "displayName": "kemeikooo",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3b98ec8c-6e83-4c97-bf45-5f0bfdc25445-profile_image-300x300.png",
-      "description": "",
-      "offlineImage": ""
-    },
-    "arihelle": {
-      "id": "165717840",
-      "login": "arihelle",
-      "displayName": "Arihelle",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/f06e69b0-c2d7-4168-888c-4dce77294533-profile_image-300x300.png",
-      "description": "Allez, viens avec moi vers cet autre côté de toi qui t'attire tant ! Gaming en tout genre, folies, discussions parfois douteuses ..",
-      "offlineImage": ""
-    },
-    "miirosca": {
-      "id": "489884282",
-      "login": "miirosca",
-      "displayName": "Miirosca",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/7106ba62-f224-44a1-8998-21806b9605c6-profile_image-300x300.jpeg",
-      "description": "Salut! J’ai récemment commencé mon épopée sur Twitch. Je joue principalement à League of Legends, mais tu peux me trouver de temps à autre sur d'autres jeux! Hi! I recently started my journey on Twitch. I will mostly speak in french but if you chat in english I will gladly respond!",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/6ffb4081-3a04-4879-ae02-83043090e639-channel_offline_image-1920x1080.png"
-    },
-    "r_eeed": {
-      "id": "589663898",
-      "login": "r_eeed",
-      "displayName": "r_eeed",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c5152d95-af2b-45fa-b27e-785eec58c3a1-profile_image-300x300.png",
-      "description": "Your silly dragon girl who wants to know the world. ",
-      "offlineImage": ""
-    },
-    "mylotvv": {
-      "id": "877625639",
-      "login": "mylotvv",
-      "displayName": "MyloTVv",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3f7cbbe5-d054-4600-a9e9-cd83befc34fd-profile_image-300x300.png",
-      "description": "Ayoo Mylo a votre service !!",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/c7e3c2ae-6cba-48a5-b3a0-85ab7e17bdd7-channel_offline_image-1920x1080.png"
-    },
-    "reoshinki": {
-      "id": "143069131",
-      "login": "reoshinki",
-      "displayName": "reoshinki",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9affe37c-54b8-4f15-a8f6-9b79ead53711-profile_image-300x300.png",
-      "description": "I sneeze like a cat and I'm bad at the whole vtuber thing | keys smashing & screaming, lots of screaming. ",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/6bdda2c1-f96f-4632-92c9-8b0fc6258080-channel_offline_image-1920x1080.png"
-    },
-    "alpha_derelic": {
-      "id": "794570113",
-      "login": "alpha_derelic",
-      "displayName": "Alpha_Derelic",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c9aa859-eb4b-42b8-938c-f8d3dce0922e-profile_image-300x300.png",
-      "description": "Je suis un jeune loup noir passionné de jeux vidéo, de programmation et de dessin. Étant très timide de nature, je tente l'expérience du live streaming pour améliorer ma confiance en moi et pour mon développement personnel. Je suis bilingue je parle Français and I also speak English.",
-      "offlineImage": ""
-    },
-    "fouinelogan": {
-      "id": "138448166",
-      "login": "fouinelogan",
-      "displayName": "fouinelogan",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/986cf557-8ba1-4463-9261-1fd510a9f472-profile_image-300x300.png",
-      "description": "Bonjour tous le monde,-je me présent, je suis Fouine Logan un Vtuber fr -je suis moitié tigre et moitié dragon-Mon Thème est le NordiqueMon but est de partagé le plaisir des jeux, que sa sois solo ou avec la communauté !Et de crée un endroit convivial où tous le monde pourront s'amusé ensemble!",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/1bb7c572-7b46-434b-ba47-10899a5276a0-channel_offline_image-1920x1080.jpeg"
+    "mr_keisuke": {
+      "id": "210742752",
+      "login": "mr_keisuke",
+      "displayName": "Mr_Keisuke",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/f11f98d8-a062-44ac-9395-de01b38c9a93-profile_image-300x300.png",
+      "description": "Salut à tous ! Moi, c'est Mr_Keisuke, un jeune streamer passionné de jeux vidéo. Mon objectif ? Passer de bons moments, jouer avec mes amis et partager un maximum de fun avec la communauté.Ici, pas de prise de tête : de la bonne humeur, des délires, des fails, quelques belles actions (parfois 😄) ",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/5462e209-d8e6-49b9-8e35-1a9a918b6703-channel_offline_image-1920x1080.png"
     },
     "lulufaevt": {
       "id": "1305593803",
@@ -1196,45 +1248,45 @@
       "description": "Hey, créatrice du podcast \"Dans Leur Bulle\" qui se tient les lundis ou mardis soir une fois par semaine où j'invite des gens de milieux divers et variés, je suis aussi une énorme fan de J-RPG et de jeux chill et j'adore vous en faire découvrir 💞💞Mail pro : Lulufaevt@gmail.com",
       "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/b779151e-2234-40e2-bf63-f95aebf983e9-channel_offline_image-1920x1080.png"
     },
-    "aikamorii": {
-      "id": "45961015",
-      "login": "aikamorii",
-      "displayName": "AikaMorii",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e4f2914-a080-4e0d-9803-72048540dabe-profile_image-300x300.png",
-      "description": "ღ Une tanuki, Passionnée des idoles, Venez pour de la joie et de la bonne humeur ( et un peu de rage ) ♥ Multigaming et Gambling Addict ( Gasha et + )",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/432bc8b0-c135-49e5-bcad-70453fc4ab06-channel_offline_image-1920x1080.png"
+    "ponylumen": {
+      "id": "59806905",
+      "login": "ponylumen",
+      "displayName": "PonyLumen",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d0578aa-1168-402f-ac45-732133ffee16-profile_image-300x300.png",
+      "description": "Juste un petit renard qui aime les jeux PC et Nintendo. Je dessine du furry et animaux mignons de temps en temps.",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/255c567f-dfd3-40df-8a76-8113eeff0159-channel_offline_image-1920x1080.png"
     },
-    "adelaladragonne": {
-      "id": "796577861",
-      "login": "adelaladragonne",
-      "displayName": "AdelaLaDragonne",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9454a0af-7e76-4e74-8eb9-57acbed576fb-profile_image-300x300.png",
-      "description": "[FR] ROAR ! Heyaaa les dragonnets! Tu veux chill & relax et découvrir des jeux en même temps? Ben vient poser tes fesses avec moi! - [EN] ROAR! Hey my little dragons! Want to chill & relax and discover games at the same time? Well, come sit down with me!",
+    "chikahiwo": {
+      "id": "702197243",
+      "login": "chikahiwo",
+      "displayName": "Chikahiwo",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ddebe2e-0df3-4738-9215-e3f1d4c6855b-profile_image-300x300.png",
+      "description": "Ur fav UwU raccoon Vtuber  // Contact : chikahiwo@gmail.com",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/30362a9f-f5c9-4e7b-891e-b167424808a5-channel_offline_image-1920x1080.png"
+    },
+    "solunie475": {
+      "id": "866806517",
+      "login": "solunie475",
+      "displayName": "Solunie475",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/69389106-8d87-4f04-b32b-709db3d12896-profile_image-300x300.png",
+      "description": "Bienvenue à toi qui lit ce groupe de texte, je suis une petite VTubeuse, adepte des metroidvania et des roguelites. J'aime explorer le lore et me baigner dans la douleur alors installe toi dans le panier.Et surtout, ne vous laissez pas submerger par le Void 👁️",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/9ae94f5b-e216-45da-abf6-179ed08fadf6-channel_offline_image-1920x1080.png"
+    },
+    "yamiyotsukiyo": {
+      "id": "76305923",
+      "login": "yamiyotsukiyo",
+      "displayName": "YamiyoTsukiyo",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ca06d73-f682-4d4b-b18a-614c10fadd0f-profile_image-300x300.png",
+      "description": "Bienvenue sur la chaîne de Yami en streaming, Où jeux japonais sont rois, tout en abondance, Des JRPG, dont je suis l'âme fringante, Parfois, jeux triple A, un divertissement. N'hésitez donc pas à suivre ma chaîne, Si ce type de contenu vous enchante et entraîne https://www.exophase.com/user/Yamiyo",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/416289d6-552a-4e37-9516-28a29c2f9b8a-channel_offline_image-1920x1080.jpeg"
+    },
+    "lolo_orsu": {
+      "id": "1231801879",
+      "login": "lolo_orsu",
+      "displayName": "Lolo_Orsu",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/fef5c28f-6292-4338-8d44-9626f2d2b99e-profile_image-300x300.png",
+      "description": "🐻 Bienvenue dans la tanière de lolo_orsu ! ☕Installe-toi confortablement, prends un café et viens passer un bon moment !🎮 Au programme : du gaming chill, des aventures sur ARC Raiders, des chasses aux fantômes sur Phasmophobia, quelques matchs sur REMATCH et d'autres découvertes au fil des envies",
       "offlineImage": ""
-    },
-    "im_kriz": {
-      "id": "472675548",
-      "login": "im_kriz",
-      "displayName": "im_KRIZ",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/56d99356-e6d4-4679-b86f-67b69f3b1877-profile_image-300x300.png",
-      "description": "En live pratiquement TOUS LES SOIRS - Parfois tranquille sur un jeu posé, parfois un peu plus bruyant avec les copains. Dans tous les cas, Multigaming et bonne ambiance sont les mots d'ordre !",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/01dad908-83c6-4a3b-a52b-a9d113750142-channel_offline_image-1920x1080.png"
-    },
-    "jeywithhoody": {
-      "id": "1349552088",
-      "login": "jeywithhoody",
-      "displayName": "JeyWithHoody",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/705e61a4-d07a-470e-9cdf-18d6576a677d-profile_image-300x300.png",
-      "description": "🍁 Dev indépendant français, installé au Québec depuis 15 ans. Je développe mon jeu d’aventure 2D sur Godot. Je joue aussi à des jeux de construction, de survie et d’exploration comme Satisfactory, Valheim et Minecraft. Email: contact@jeywithhoody.com",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/a6b3f5fa-3e36-4927-8175-d73432fb791b-channel_offline_image-1920x1080.png"
-    },
-    "lelexxou": {
-      "id": "444388375",
-      "login": "lelexxou",
-      "displayName": "Lelexxou",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9c02380a-a32e-4e6a-96e1-99ae137acfbd-profile_image-300x300.png",
-      "description": "Heya ! Moi c'est Alexxou ! :D Je suis VTuber, je stream sur des jeux, de la discussion sans filtres! J'aime beaucoup partager et discuter ! Mais cette aventure ne serait pas possible sans votre compagnie ! Aussi n'hésitez pas à venir discuter avec moi ou mes invités ! Amusez vous surtout ! :D",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/349eb547-317a-47c0-bfdc-2b852f4abfdd-channel_offline_image-1920x1080.png"
     },
     "ryllaka": {
       "id": "1318737161",
@@ -1244,12 +1296,68 @@
       "description": "Hellow~ C'est Ryllaka, votre mi-louve au QI négatif! Ici on discute, je découvre de nouveaux jeux, je fais du multiplayer avec le tchat et du réact' à des films et séries !  ",
       "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/e2fb87b8-d1d7-4eda-80d9-6f35258513b9-channel_offline_image-1920x1080.png"
     },
-    "yuann_art": {
-      "id": "411014391",
-      "login": "yuann_art",
-      "displayName": "Yuann_art",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/eaf04d80-56fe-4d5a-9a33-dd04e440f814-profile_image-300x300.png",
-      "description": "🎨 VTuber & artiste ! Je stream des dessins et des illustrations de temps en temps. Rejoins-moi pour discuter et créer ensemble ! ✨🖌️",
+    "ladyxmc": {
+      "id": "579533406",
+      "login": "ladyxmc",
+      "displayName": "Ladyxmc",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/f0e75d20-1cc7-4fb3-ad97-a4f539d32917-profile_image-300x300.png",
+      "description": "Hello mes petits oursons ! Je me présente je suis Vtuber , je fais principalement des gachas comme genshin impact , hsr et ZZZ qui sont mes 3 principaux . C'est chill et bonne ambiance ici , on rigole bien , je fais aussi du Valorant pour les intérésser des FPS ou jeux de compète . J'adore le coca ",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/e398b33e-12bf-48b1-b56c-691a4304ebab-channel_offline_image-1920x1080.png"
+    },
+    "lollym122a": {
+      "id": "430524619",
+      "login": "lollym122a",
+      "displayName": "lollym122a",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9f3e1f3c-02ad-4512-bc14-b6b5bc2edf92-profile_image-300x300.png",
+      "description": "Bonjour tout le monde je suis une streameuse assez sympathique et je suis la pour passée de bons moments avec vous  si vous voulez vous follow il n'y a pas de soucis  dans le respect bien sur vous pouvez discuter, jouer et vous sub ca fais toujours plaisir.",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/d4625462-ddd7-45af-8c15-0744d23e23d4-channel_offline_image-1920x1080.png"
+    },
+    "miinalya": {
+      "id": "655571846",
+      "login": "miinalya",
+      "displayName": "Miinalya",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/d8764486-9187-47ee-8d6f-fbbb0ccf86fd-profile_image-300x300.png",
+      "description": "🐸 Coucou, moi c'est Mina ! 💚 Bienvenue dans ma petite mare enchantée ! Ici, on joue, on papote et on partage de bons moments dans la bonne humeur. 🌸 Installe-toi sur un nénuphar, fais comme chez toi et profite de l'ambiance ! Promis, je ne mords pas enfin, normalement. 👀🪷",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/a4dea537-6470-4d28-a0a9-8df6bf82469d-channel_offline_image-1920x1080.jpeg"
+    },
+    "kenodoxia__": {
+      "id": "94744207",
+      "login": "kenodoxia__",
+      "displayName": "Kenodoxia__",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/18164c69-d0a6-4f44-94cf-01680052fcf6-profile_image-300x300.png",
+      "description": "Retrouve la bulle d'été d'une Solar Kistune passionnée de dessin, de FFXIV, de JdR, de jeux narratifs et de jeux multi!",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/f863a657-4b5a-452f-a7d6-5e532a26e979-channel_offline_image-1920x1080.png"
+    },
+    "akira_neko_vt": {
+      "id": "1372386710",
+      "login": "akira_neko_vt",
+      "displayName": "akira_neko_vt",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e8439be1-1394-4611-b735-3778a7880f0e-profile_image-300x300.png",
+      "description": "Le VTuber Daddy Cat le plus chaotique que vous pourrez voir ! N'hésitez pas à me donner de la force !",
+      "offlineImage": ""
+    },
+    "lunyvee": {
+      "id": "1480386633",
+      "login": "lunyvee",
+      "displayName": "Lunyvee",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/82b74590-e53b-4876-9ff2-1d167f6c3ebe-profile_image-300x300.png",
+      "description": "Plot à ses heures perdues! En live à 20h tout les jours ! ",
+      "offlineImage": ""
+    },
+    "skazy_gm": {
+      "id": "188039642",
+      "login": "skazy_gm",
+      "displayName": "Skazy_GM",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/aac6501a-e57f-49d4-8ee2-e37bdc1af3a2-profile_image-300x300.png",
+      "description": "Moi c'est Skazy, GM de la guilde Existence ! Je vous embarquerai avec moi à travers nos prochaines aventures, nos missions et les nombreux mondes qu’on croisera en chemin.Alors prêts pour la prochaine mission les gueux ?",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/c04cb892-14b7-4656-9772-b1d6cf093d13-channel_offline_image-1920x1080.png"
+    },
+    "kaorigemini": {
+      "id": "80959657",
+      "login": "kaorigemini",
+      "displayName": "kaorigemini",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/04231703-ef0f-41e3-b1c1-e45dd68c10ec-profile_image-300x300.png",
+      "description": "Bienvenue a toi qui arrive sur cette chaine ! Je fait régulièrement des streams sur mes jeux préférés mais j'adore aussi découvrir de nouveaux jeux !  Je suis ici pour amuser la galerie et vous faire passer un bon moment ! ",
       "offlineImage": ""
     },
     "nixy_vt": {
@@ -1260,69 +1368,53 @@
       "description": "Je fais un peu n'importe quoi, mais c'est chill ici | @Nixy.vt@gmail.com",
       "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/1e23d5f2-b5da-4a92-8cda-c972d65964d7-channel_offline_image-1920x1080.png"
     },
-    "ikutokami": {
-      "id": "108422521",
-      "login": "ikutokami",
-      "displayName": "IkutoKami",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/f9ca0fde-b9f3-4880-a305-69171c909ea3-profile_image-300x300.png",
-      "description": "WARNING THIS STREAM CAN CONTAIN: Awesomness, Beautiful people,Beautiful voice, Stupidity, Lot of pleasure, Jumpscare, Back street boy song. If you agree this term (or not) YOURE WELCOME :D !!",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/da346d1c-34be-4ee6-a3f7-4782c468b771-channel_offline_image-1920x1080.png"
+    "meliiie_": {
+      "id": "730876479",
+      "login": "meliiie_",
+      "displayName": "Meliiie_",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/2e869ad7-86e1-49a9-82bd-65145c85aa8a-profile_image-300x300.png",
+      "description": "✨ Une bonne vibe assurée à chaque live ! 💌 melie.contactpro@gmail.com",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/8f6d434b-14e3-47e3-b641-7f4550e569bf-channel_offline_image-1920x1080.png"
     },
-    "pokiipitch": {
-      "id": "41606625",
-      "login": "pokiipitch",
-      "displayName": "PokiiPitch",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/2a7474c6-2f45-4248-8f09-204f54880e90-profile_image-300x300.png",
-      "description": "Bio genre biologique à la puissance alchimique!",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/95055c6e-d7d2-4878-95ee-e8b934e0db35-channel_offline_image-1920x1080.jpeg"
+    "aleknms": {
+      "id": "797807943",
+      "login": "aleknms",
+      "displayName": "aleknms",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/2f341e30-b118-4bcf-b954-62727dc411ce-profile_image-300x300.png",
+      "description": "Aleknms, extraterrestre rescapé de l’explosion de sa planète, vit sur Terre en nounours aux oreilles de lapin. Porteur de souvenirs humains, il les partage avec la communauté des Rétronounours à bord d’un appareil interstellaire venu d’ailleurs. Slowrunner, il explore chaque aventure à son rythme.",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/f7629aec-1d86-4cf6-b12e-44ad184265e4-channel_offline_image-1920x1080.png"
     },
-    "miekoyuu": {
-      "id": "693659492",
-      "login": "miekoyuu",
-      "displayName": "MiekoYuu",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/aad9acd5-c717-4409-b21c-457d8ac06e32-profile_image-300x300.png",
-      "description": "passionnée de jeux je viens vous partager mes découverte et mes jeux favoris ",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/93363ebd-17d3-4dd4-98d7-0d89da3f357f-channel_offline_image-1920x1080.png"
+    "lil_lappy_2077": {
+      "id": "514557150",
+      "login": "lil_lappy_2077",
+      "displayName": "lil_Lappy_2077",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/f963ce44-4e63-4d72-b1e9-8e68a883c8a0-profile_image-300x300.jpeg",
+      "description": "Hellooo Night CITYY, je stream de temps en temps!!  𝐀𝐍𝐂𝐈𝐄𝐍 𝐏𝐒𝐄𝐔𝐃𝐎 - 𝐃𝐮𝐦_𝐃𝐮𝐦_𝟐𝟎𝟕𝟕",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/b5f19962-6114-4fab-9112-ee6326668da3-channel_offline_image-1920x1080.png"
     },
-    "datdamnsable": {
-      "id": "1530059596",
-      "login": "datdamnsable",
-      "displayName": "DatDamnSable",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b0cb91c7-2396-4618-a952-a294b231612c-profile_image-300x300.png",
-      "description": "On m'appelle That Damn Sable parce que, parfois, mes actions en survivante sont dignes d'une vraie débutante 😭Je devrais peut-être me contenter de jouer tueur… mais franchement, on s'en fiche ! Je suis là pour m'amuser 😂Parfois, je sais ce que je fais. Et parfois… pas du tout 👀😵‍💫",
-      "offlineImage": ""
+    "oktavia_chantelame": {
+      "id": "107900674",
+      "login": "oktavia_chantelame",
+      "displayName": "oktavia_chantelame",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/34ca44de-728b-4e49-a654-86a8400484d3-profile_image-300x300.png",
+      "description": "Yahoooooooooooo ~~",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/5609a1c3-7eff-4eda-9df2-02c0fc500795-channel_offline_image-1920x1080.png"
     },
-    "infoxtv": {
-      "id": "691265153",
-      "login": "infoxtv",
-      "displayName": "InfoxTV",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9d08193a-8545-40c1-ab37-c72c9c2f4ea7-profile_image-300x300.png",
-      "description": "Bienvenue sur InfoxTV ! Derrière cet avatar se cache votre détective numérique dédié au décryptage de l'actu et à la chasse aux fake news en direct. Rejoignez le chat pour enquêter ensemble, vérifier les sources et aiguiser notre esprit critique ! 🔍✨",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/17f69585-693e-4958-bce6-805fa1dfaf4d-channel_offline_image-1920x1080.png"
+    "reoshinki": {
+      "id": "143069131",
+      "login": "reoshinki",
+      "displayName": "reoshinki",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9affe37c-54b8-4f15-a8f6-9b79ead53711-profile_image-300x300.png",
+      "description": "I sneeze like a cat and I'm bad at the whole vtuber thing | keys smashing & screaming, lots of screaming. ",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/6bdda2c1-f96f-4632-92c9-8b0fc6258080-channel_offline_image-1920x1080.png"
     },
-    "zelfyros": {
-      "id": "702584833",
-      "login": "zelfyros",
-      "displayName": "Zelfyros",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/413c31ef-b70f-4bd0-8ab6-f50eac939f9e-profile_image-300x300.png",
-      "description": "",
-      "offlineImage": ""
-    },
-    "linuki_konlya": {
-      "id": "1094808078",
-      "login": "linuki_konlya",
-      "displayName": "Linuki_Konlya",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e7a0e2c3-c9eb-415a-909b-5981078ed94c-profile_image-300x300.png",
-      "description": "VTubeuse chill, experte en gaming… et en kidnapping (collabs 100% presque consenties 🛸). On papote, on joue à tout et on boit du bubble tea. T’es chez toi ici 🧋💙",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/aa82c4a6-5a4e-4135-858a-53f1f00c19cc-channel_offline_image-1920x1080.png"
-    },
-    "vaanbel_": {
-      "id": "1564882700",
-      "login": "vaanbel_",
-      "displayName": "Vaanbel_",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1ae7178f-e593-4e10-a8c0-689aac25f722-profile_image-300x300.jpeg",
-      "description": "Sous mes plumes, un peu de chaos. Un petit coin tranquille où on joue, on jase, on rit et on rend les journées un peu meilleures 💜",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/3a8d7890-1124-4387-87bc-590fc5b74be6-channel_offline_image-1920x1080.png"
+    "kellynavt": {
+      "id": "457111942",
+      "login": "kellynavt",
+      "displayName": "KellynaVT",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01795763-4a08-44dc-8edb-a794d72d6f84-profile_image-300x300.png",
+      "description": "Heywo ! Moi c'est Kellyna, et bienvenue sur ma chaine! je suis une femme passionnée de jeux vidéos et de streaming, ici je partagerais ce qui me plait. J'espère que vous vous plairais ici ! ",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/1adf896c-2d95-4c70-86ce-271312a13ee3-channel_offline_image-1920x1080.jpeg"
     },
     "mevolie": {
       "id": "521785411",
@@ -1332,75 +1424,307 @@
       "description": "Vtubeuse - VR Specialist / Ultimate Nintendo Retro Gamer / Boogie 🩷",
       "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/ef02303c-574e-4c89-a2e7-96e129d7768e-channel_offline_image-1920x1080.png"
     },
-    "ladyxmc": {
-      "id": "579533406",
-      "login": "ladyxmc",
-      "displayName": "Ladyxmc",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/f0e75d20-1cc7-4fb3-ad97-a4f539d32917-profile_image-300x300.png",
-      "description": "Hello mes petits oursons ! Je me présente je suis Vtuber , je fais principalement des gachas comme genshin impact , hsr et ZZZ qui sont mes 3 principaux . C'est chill et bonne ambiance ici , on rigole bien , je fais aussi du Valorant pour les intérésser des FPS ou jeux de compète . J'adore le coca ",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/e398b33e-12bf-48b1-b56c-691a4304ebab-channel_offline_image-1920x1080.png"
+    "pikagohan": {
+      "id": "92537466",
+      "login": "pikagohan",
+      "displayName": "PikaGohan",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/89038488-3203-48fb-9f68-155df8beed2e-profile_image-300x300.png",
+      "description": "Bienvenue a tous sur ma chaîne twitch, passez de très agréables moments ;)",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/b3996efe-5130-4a86-b775-3671a4c2f145-channel_offline_image-1920x1080.png"
     },
-    "reallyley": {
-      "id": "1033977226",
-      "login": "reallyley",
-      "displayName": "ReallyLey",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/78e2e851-e993-4b73-b035-a99dcbc34d05-profile_image-300x300.png",
-      "description": "Salut c'est Ley ! English speakers are always welcome. JRPG lover (but open to all games). Let’s dive into epic worlds, gripping stories, and unforgettable characters. Welcome to the adventure!",
-      "offlineImage": ""
+    "zerosart": {
+      "id": "172228814",
+      "login": "zerosart",
+      "displayName": "ZerosArt",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8cabb9a-4f03-4464-ad6a-9dace81060ff-profile_image-300x300.png",
+      "description": "Ton Daddy VTuber ^^",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/e66150d0-1518-4292-9b07-a5e96504c736-channel_offline_image-1920x1080.png"
     },
-    "neptunevermilion": {
-      "id": "460724415",
-      "login": "neptunevermilion",
-      "displayName": "NeptuneVermilion",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/706066cb-a0e9-4219-a954-7d9e762edc67-profile_image-300x300.png",
-      "description": "Bonjour Moi c'est Neptune Vermilion. Vtuber Huard Quebecois, Je suis tres ouvert d'esprit et j'adore rigoler et jouer avec la commu. n'ayez pas peur de me faire un coucou et de me suivre dans mes aventures les plus fou",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/b75edee1-7b9b-4462-bc4f-ce28af775456-channel_offline_image-1920x1080.png"
-    },
-    "kunavt_": {
-      "id": "1438802640",
-      "login": "kunavt_",
-      "displayName": "KunaVT_",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/62c6ac02-94a3-4865-a50d-4f032d47bfcf-profile_image-300x300.png",
-      "description": "Salut kuna le streamer en carton qui aime dessiner et jouer a des jeux",
-      "offlineImage": ""
-    },
-    "darkhaidenvtqc": {
-      "id": "1514749321",
-      "login": "darkhaidenvtqc",
-      "displayName": "darkhaidenvtqc",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/d961c139-03e9-4171-aec2-657ebe1200b3-profile_image-300x300.png",
+    "decayofzirconium": {
+      "id": "77924136",
+      "login": "decayofzirconium",
+      "displayName": "DecayOfZirconium",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/f9a41491-8b4c-4e65-bcec-0c899d2d3adc-profile_image-300x300.png",
       "description": "",
       "offlineImage": ""
     },
-    "hikari_nishikino": {
-      "id": "90276682",
-      "login": "hikari_nishikino",
-      "displayName": "Hikari_Nishikino",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e8442755-33f7-48df-b620-989091bd4fff-profile_image-300x300.png",
-      "description": "Bienvenue, voyageur. Tu entres dans le royaume d’une déesse tombée du ciel. Je suis Hikari gardienne de l’aube et du crépuscule.Parfois douce comme la lumière du matin,parfois implacable comme la fin du jour.Mais toujours vraie. Ici, la magie existe si tu oses y croire. ;)",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/e76bb329-4680-4476-a16e-2f1e14574da9-channel_offline_image-1920x1080.png"
+    "jean_michel_jeuvideal": {
+      "id": "563732252",
+      "login": "jean_michel_jeuvideal",
+      "displayName": "jean_michel_jeuvideal",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5fe15197-1f00-4918-b294-38b57d8047d2-profile_image-300x300.png",
+      "description": "Yo les gens, vous pouvez m'appeler \"JeanMi\". Objectif un stream par semaine même si parfois les horaires sont aléatoires ^^ Ici on aime beaucoup les jeux de gestion et papoter.",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/6559aec3-1f63-40a9-bf17-0297708c6966-channel_offline_image-1920x1080.png"
     },
-    "lerangerduko": {
-      "id": "108615354",
-      "login": "lerangerduko",
-      "displayName": "LeRangerDuKO",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/f61f6dc4-1d80-4d79-951b-e20df52610d7-profile_image-300x300.png",
-      "description": "🧙​MJ et Auteur de l'extension des Vilains du Donjon (JDR Naheulbeuk)🧙 -----      🎃​Cosplayeur Zangdar officiel, Rôliste invétéré et VTuber Mort-Vivant. 🎃 -------⛑️​Handicape de la SEP⛑️ ------- 📩 Mail Pro : lerangerduko@gmail.com 📩",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/2a39d39a-ed1c-4d97-8d19-c4ffa45cb100-channel_offline_image-1920x1080.png"
+    "zephyravttv": {
+      "id": "736350873",
+      "login": "zephyravttv",
+      "displayName": "zephyravttv",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcd7c80e-d4a0-4608-b718-ba284980b626-profile_image-300x300.png",
+      "description": "",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/ac97c228-9a03-4e46-8003-f9ec845a680d-channel_offline_image-1920x1080.jpeg"
     },
-    "lechatoo": {
-      "id": "94069234",
-      "login": "lechatoo",
-      "displayName": "LechatOo",
-      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/df89138e-86f4-4711-b2db-30ce0ccf9dc7-profile_image-300x300.png",
-      "description": "Chat guidé par le chaos et la lune 🌙FPS, MMO et jeux coop au rendez-vous. Black cat energy with a touch of purple 🐈‍⬛💜",
-      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ade2a52-5339-481b-926d-f138251cb32a-channel_offline_image-1920x1080.jpeg"
+    "klashime": {
+      "id": "538718839",
+      "login": "klashime",
+      "displayName": "klashime",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cff367c-a9e8-45a6-9103-4c4bc960b18a-profile_image-300x300.png",
+      "description": "Je suis une vtubeuse qui adore les jeux vidéos et tout ce qui est manuel, Vient t'amuser avec moi, je suis une grosse folle qui meurt tout le temps! ",
+      "offlineImage": ""
+    },
+    "gulliana_vt": {
+      "id": "435384347",
+      "login": "gulliana_vt",
+      "displayName": "Gulliana_VT",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1f515479-e931-4769-b54e-9de7e4eff0ba-profile_image-300x300.png",
+      "description": "🪻 Une Vtubeuse lapin elfe toujours là pour faire des bêtises !  V-Artiste et L2D Rigger Ultra Giga Débutante 🎨 💌 Mail pro : lemondedegullipro@gmail.com",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/e68fa68d-7729-4cca-bfee-f396a8862920-channel_offline_image-1920x1080.png"
+    },
+    "aikamorii": {
+      "id": "45961015",
+      "login": "aikamorii",
+      "displayName": "AikaMorii",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e4f2914-a080-4e0d-9803-72048540dabe-profile_image-300x300.png",
+      "description": "ღ Une tanuki, Passionnée des idoles, Venez pour de la joie et de la bonne humeur ( et un peu de rage ) ♥ Multigaming et Gambling Addict ( Gasha et + )",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/432bc8b0-c135-49e5-bcad-70453fc4ab06-channel_offline_image-1920x1080.png"
+    },
+    "rina_vocemod": {
+      "id": "1400618073",
+      "login": "rina_vocemod",
+      "displayName": "rina_vocemod",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3faa9704-74a2-4299-9006-68f5164e14df-profile_image-300x300.png",
+      "description": "je suis une vtubeuse renarde qui utilise voicemod ( je utilise pas de IA génératif ! ) pour discuter avec vous ^^",
+      "offlineImage": ""
+    },
+    "saitilink": {
+      "id": "480118459",
+      "login": "saitilink",
+      "displayName": "Saitilink",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3d01670f-c816-4d2b-90f0-f441e36f2a76-profile_image-300x300.png",
+      "description": "Humain ? Peut être ? Qui sait ? En tout cas on propose différent jeux mais en majorité du DBD ou du Valorant et League !",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/1cf5d3b8-0812-49b5-800e-1f23566d5c10-channel_offline_image-1920x1080.png"
+    },
+    "jpp_nas": {
+      "id": "97517561",
+      "login": "jpp_nas",
+      "displayName": "JPP_NAS",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/894d722c-677f-4796-940f-15965267d8b5-profile_image-300x300.png",
+      "description": "Vtuber FR 🐼 | Gacha, MMORPG & stratégie au menu !Passion, tirages, tryhard et discussions chill avec le panda roux 🍃Entre deux pulls, on papote culture G, santé & nutrition.Bienvenue dans la Bambouserie, ton coin détente & gacha 🎮 / Mail pro : eldharen38@gmail.com",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/d73fff93-ee43-4eae-9256-21c731f739d3-channel_offline_image-1920x1080.png"
+    },
+    "senecent_": {
+      "id": "523576047",
+      "login": "senecent_",
+      "displayName": "senecent_",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a858a16d-4e17-480b-af1a-afa247c6cb42-profile_image-300x300.png",
+      "description": "hello, bienvenue ! Vtuber, je stream des jeux, notamment TFT (teamfight tactics) en solo ou bien entre amis,installez vous bien confortablement dans vos chaises et venez discuter avec nous!",
+      "offlineImage": ""
+    },
+    "alucard_cosplay": {
+      "id": "188947870",
+      "login": "alucard_cosplay",
+      "displayName": "Alucard_Cosplay",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/ebc89228-7aa5-4c19-bf83-c28d0886e365-profile_image-300x300.png",
+      "description": "Je fais un peu de tout et de rien mais je m'amuse !",
+      "offlineImage": ""
+    },
+    "keola": {
+      "id": "823354819",
+      "login": "keola",
+      "displayName": "Keola",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c612a125-17ab-4e39-b13f-58c678731f82-profile_image-300x300.png",
+      "description": "🍎 Vtubeuse FR, Panda roux 🍏 J'ai la particularité d'être muette, ce qui explique pourquoi vous ne m'entendrez pas, les seules personnes qui parlent sur mon live sont mes amis avec qui je joue. N'hésitez pas à planter votre tente dans cette petite safe place ✉️Contact pro : kumaneko.keola@gmail.com",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/8568f404-a124-40b6-8048-e5002802ca3b-channel_offline_image-1920x1080.png"
+    },
+    "adouline": {
+      "id": "138057899",
+      "login": "adouline",
+      "displayName": "Adouline",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e7cb9c62-d854-468e-a696-a0a37247dc01-profile_image-300x300.png",
+      "description": "BIENVENUE !! 🎀 Depuis mes premiers streams j'ai bien changé... 🍃Voici Adouline 2.0 Plus direct, plus franche MAIS TOUJOURS LA MEME 💕  Je reste votre petite boule de fun ☀️ et d'extravagance ⭐ Rejoins moi si tu aimes les montagnes russes !!! Pas un jour comme l'autre ici !!!",
+      "offlineImage": ""
+    },
+    "byakirah": {
+      "id": "69550540",
+      "login": "byakirah",
+      "displayName": "ByakiraH",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/705be048-ac02-4de0-b266-0e463072fba6-profile_image-300x300.png",
+      "description": "Yop Minna-sama ! #ByakiFail est là pour vous faire partager des moments Epiques, fails, délires, tuto, raids ! Bref le Fail sous toutes ses formes ! ENJOY !!!",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/45aff171-a249-4cd4-959c-3712458ef420-channel_offline_image-1920x1080.png"
+    },
+    "yuann_art": {
+      "id": "411014391",
+      "login": "yuann_art",
+      "displayName": "Yuann_art",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/eaf04d80-56fe-4d5a-9a33-dd04e440f814-profile_image-300x300.png",
+      "description": "🎨 VTuber & artiste ! Je stream des dessins et des illustrations de temps en temps. Rejoins-moi pour discuter et créer ensemble ! ✨🖌️",
+      "offlineImage": ""
+    },
+    "destrylthewolf": {
+      "id": "47882235",
+      "login": "destrylthewolf",
+      "displayName": "DestrylTheWolf",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/71ed02bd-6b96-4c4e-9e9f-4ebd5d0c8374-profile_image-300x300.png",
+      "description": "Hey there! I'm a 25-year-old blue wolf just howling through the digital world! Always up for company, so come on over and join the pack! Fluent in both French and English, I'm a versatile gamer into all genres and an enthusiastic singer to boot. Let's play, chat, and maybe even harmonize together !",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/325f2c76-7c0f-454d-8b47-3a899c8d2f05-channel_offline_image-1920x1080.jpeg"
+    },
+    "akemi_sakura_": {
+      "id": "724547533",
+      "login": "akemi_sakura_",
+      "displayName": "Akemi_Sakura_",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5273c6e2-8d2c-4179-8298-63fce16aae8b-profile_image-300x300.png",
+      "description": "",
+      "offlineImage": ""
+    },
+    "gartouff": {
+      "id": "130402796",
+      "login": "gartouff",
+      "displayName": "Gartouff",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/54d09dfa-8013-4805-b274-1aaa31bfa11b-profile_image-300x300.png",
+      "description": "Un jeune Corrompu par Nurgle qui essaye de devenir un Elu.",
+      "offlineImage": ""
+    },
+    "thefoxberserker": {
+      "id": "1599233403",
+      "login": "thefoxberserker",
+      "displayName": "thefoxberserker",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1061dcd6-0f3a-4d76-8927-08b60b5b3d5f-profile_image-300x300.png",
+      "description": "je suis un renard furry assez fun qui aime la music un peut bourin avec un humour limite mais je vous laisse decouvrir",
+      "offlineImage": ""
+    },
+    "yodhab": {
+      "id": "464143806",
+      "login": "yodhab",
+      "displayName": "YodHab",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3351003-6b60-446c-94c6-bec40c04a039-profile_image-300x300.png",
+      "description": "Votre Streamer Vtubeur du tonnerre !!! On vise encore plus loin, toujours plus haut, toujours plus fort !!! Rejoins la communauté Lightning !!!",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/75382b63-55ec-4561-bc90-c1c4ad4e9590-channel_offline_image-1920x1080.png"
+    },
+    "hackumaotk": {
+      "id": "89958058",
+      "login": "hackumaotk",
+      "displayName": "hackumaotk",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/14ef6e7a-4780-47b6-8625-1bcab44d0ac0-profile_image-300x300.jpeg",
+      "description": "salutation a toi en live tout les jours dans la joie et la bonne humeur je partage mon loisir du jeux vidéos sur divers gameplay diffèrent n'oublie de t'abonner pour suivre mon aventure  tu peux aussi rejoindre mon serveur discord ",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/637fec3e-6105-46b2-b5ed-7543195b40fb-channel_offline_image-1920x1080.png"
+    },
+    "ezko_bar": {
+      "id": "166828497",
+      "login": "ezko_bar",
+      "displayName": "Ezko_Bar",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dbc9afdb-6c51-45a8-8cff-c01549014c79-profile_image-300x300.png",
+      "description": "Ezko, joueur de WoW depuis Vanilla. Embarque avec moi pour un levelling bien épicé sur WoW Forever, du level 1 à 60 !",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/319ab27e-290b-4602-9c39-f70c04141852-channel_offline_image-1920x1080.png"
+    },
+    "madebybul": {
+      "id": "224145631",
+      "login": "madebybul",
+      "displayName": "madebybul",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/d5c87195-4e90-4ff4-a5d2-89ae765c0e37-profile_image-300x300.png",
+      "description": "Je suis une petite Bulle, perdue dans l'espace. Artiste et grande fan de Genshin Impact, par ici, on gribouille toutes sortes de choses, on joue à plein de jeux et on rigole autant que possible. Installe-toi et sens-toi bienvenue dans notre ciel étoilé ! 💖✨! ",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/1e377355-d520-4346-8758-d019ae7161c4-channel_offline_image-1920x1080.png"
+    },
+    "miekoyuu": {
+      "id": "693659492",
+      "login": "miekoyuu",
+      "displayName": "MiekoYuu",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/aad9acd5-c717-4409-b21c-457d8ac06e32-profile_image-300x300.png",
+      "description": "passionnée de jeux je viens vous partager mes découverte et mes jeux favoris ",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/93363ebd-17d3-4dd4-98d7-0d89da3f357f-channel_offline_image-1920x1080.png"
+    },
+    "felissdrakkhen": {
+      "id": "64875479",
+      "login": "felissdrakkhen",
+      "displayName": "Felissdrakkhen",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/12c2e6ea-12cb-4078-9c90-4e24e0bfddbc-profile_image-300x300.jpeg",
+      "description": "Kitsune passionnée de JDR et VR, spécialisée dans FF14 et VRChat ! On discute, on rigole (humour noir inclus 😈), et on s’amuse ! Stream PC et VR, et non, je ne suis pas petite, juste une perspective différente… et cinq queues pour mieux vous guider ! 🐾",
+      "offlineImage": ""
+    },
+    "roxi60": {
+      "id": "148102647",
+      "login": "roxi60",
+      "displayName": "roxi60",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/2647ca6d-8ae6-4f76-b043-cec424272168-profile_image-300x300.png",
+      "description": "Une machine plus humain que je peux le paraitre, joueur de league of legends et de wow, il m'arrive de me perdre dans le multigaming. Pose toi et régale toi mon ami.",
+      "offlineImage": ""
+    },
+    "tehqui": {
+      "id": "82771636",
+      "login": "tehqui",
+      "displayName": "Tehqui",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5fe8f497-7c08-4128-a64b-f9a058421e64-profile_image-300x300.png",
+      "description": "Je platine un max de jeux, ici on try hard les succès mais toujours en étant chill !Je stream généralement toute la journée 2x/semaine minimum et de temps en temps en fin d'après-midi.",
+      "offlineImage": ""
+    },
+    "shao_pix": {
+      "id": "42535173",
+      "login": "shao_pix",
+      "displayName": "Shao_pix",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/06b60c56-0156-4933-b5e3-e80a8b077d94-profile_image-300x300.png",
+      "description": "Vtuber Panda roux | Matinal gaming, jeux en communauté & création d'avatars VRChat. 100% chill, 0% skill garanti ✧ Contact pro : contact@shaopix.fr",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/daf71180-0287-4636-a502-1231ac667367-channel_offline_image-1920x1080.png"
+    },
+    "seiolu": {
+      "id": "67319155",
+      "login": "seiolu",
+      "displayName": "SeiOlu",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1bde14b7-9698-4067-b757-e1f4f4e51230-profile_image-300x300.jpeg",
+      "description": "Salut à tous ! Je suis unx créateurice de contenu français un peu barré qui ne se prend pas trop au sérieux et qui fait beaucoup de blagues, alors abonne-toi et passe faire coucou quand je suis en ligne !",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/f0c82678-2600-4876-9782-02d86e443d55-channel_offline_image-1920x1080.png"
+    },
+    "wolforatv": {
+      "id": "726899290",
+      "login": "wolforatv",
+      "displayName": "WolforaTV",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/980013ad-067a-4bf0-a1a2-23862ba8cba6-profile_image-300x300.png",
+      "description": "Chasseur de trophées platine en mode fou furieux ! 🎮💥 Prêt à débloquer des platines, relever des défis de malade et vivre des moments épicés ? Si tu veux du fun, du challenge et des trophées à gogo!",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/47f3049c-b423-4ab4-9b5a-26da64694f4c-channel_offline_image-1920x1080.jpeg"
+    },
+    "lucxacusfr": {
+      "id": "186873418",
+      "login": "lucxacusfr",
+      "displayName": "LucxacusFR",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/7dcebabe-0ed0-4a12-8dc7-3d38ef05fb9f-profile_image-300x300.png",
+      "description": "Meow Meow meow ... you understand ici on n'aime less chaaaatsss",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/ec0a22dc-f185-4fde-a390-cf23a01559fc-channel_offline_image-1920x1080.png"
+    },
+    "maxis3ns": {
+      "id": "718415581",
+      "login": "maxis3ns",
+      "displayName": "maxis3ns",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/716be688-5f9c-49ea-ba43-dd3b1ee068d5-profile_image-300x300.png",
+      "description": "Salut tout le monde, c'est maxis3ns ! venez à la rencontre de se chasseur de monstre !!toujours avec un sourire !! et toute c'est dents !!",
+      "offlineImage": ""
+    },
+    "kamicie": {
+      "id": "1250485349",
+      "login": "kamicie",
+      "displayName": "KamiCie",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/fd11c8a9-0fe0-4f9a-bdab-795b975a5d56-profile_image-300x300.png",
+      "description": "Hello à tous ! Ici un lion totalement banal qui est là pour vous divertir et s'amuser ! (sachez que l'avatar actuel est temporaire) Alors n'hésitez pas à vous installer dans la tanière du lion gamer !",
+      "offlineImage": ""
+    },
+    "elnino_": {
+      "id": "457336238",
+      "login": "elnino_",
+      "displayName": "elnino_",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3bf95ee8-ad4a-42b8-b09c-1c9dfeb0e4e3-profile_image-300x300.png",
+      "description": "Dessin et gameplay pour des stream salés à souhait!",
+      "offlineImage": ""
+    },
+    "mina_vulgaris": {
+      "id": "1130853642",
+      "login": "mina_vulgaris",
+      "displayName": "Mina_Vulgaris",
+      "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/4a2f9290-fc88-49ca-b4dc-fe991d17ddc4-profile_image-300x300.png",
+      "description": "[Streameuse à plein temps] Joueuse de Dead By Daylight principalement, je suis aussi une amoureuse de l'horreur , des découvertes , du farm , de la survie et bien d'autres choses ! J'espère que tu te sentiras à l'aise ! Skill moyen , Positivité ++ *JOIN THE MINARMY* Contact : Ditavonfreez@gmail.com",
+      "offlineImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ed7907b-fe7c-4ce9-bb5b-9a903ac2d678-channel_offline_image-1920x1080.png"
     }
   },
   "coverage": {
     "language": "fr",
-    "scanned": 4286,
-    "pages": 49,
+    "scanned": 3666,
+    "pages": 43,
     "complete": true,
     "method": "declared-tags",
     "tags": [
